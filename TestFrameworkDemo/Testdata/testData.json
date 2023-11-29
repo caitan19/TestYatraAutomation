@@ -1,0 +1,18 @@
+{
+	"test_set_1":
+		{
+			"goingfrom": "New Delhi (DEL)",
+			"goingto": "JFK",
+			"arivaldate": "27/11/2023",
+			"returndate": "21/12/2023",
+          "stops": "1 Stop"
+		},
+	"test_set_2":
+		{
+			"goingfrom": "Goa",
+			"goingto": "Melbourne",
+			"arivaldate": "27/11/2023",
+			"returndate": "21/12/2023",
+          "stops": "2 Stops"
+		}
+}

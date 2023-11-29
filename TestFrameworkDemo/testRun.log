@@ -1,0 +1,2365 @@
+2023-09-05 19:42:18,653 - DEBUG :- Selected flights with 1 stop
+2023-09-05 19:47:34,500 - DEBUG :- Selected flights with 2 stops
+2023-09-05 19:47:38,529 - DEBUG :- Number of stops 14: 
+2023-09-05 19:51:55,618 - DEBUG :- Selected flights with 2 stops
+2023-09-05 19:51:59,682 - DEBUG :- Number of stops 14: 
+2023-09-05 19:53:35,090 - DEBUG :- Selected flights with 1 stop
+2023-09-05 19:53:39,190 - DEBUG :- Number of stops 46: 
+2023-09-05 19:55:12,748 - DEBUG :- Selected flights with 2 stops
+2023-09-05 19:55:16,805 - DEBUG :- Number of stops 6: 
+2023-09-05 19:57:35,914 - DEBUG :- Selected flights with 2 stops
+2023-09-05 19:57:39,952 - DEBUG :- Number of stops 14: 
+2023-09-05 20:04:32,070 - DEBUG :- Selected flights with 1 stop
+2023-09-05 20:04:36,092 - DEBUG :- Number of stops 46: 
+2023-09-06 19:17:06,742 - DEBUG :- Selected flights with 1 stop
+2023-09-06 19:17:10,770 - DEBUG :- Number of stops 59: 
+2023-09-06 19:19:29,273 - DEBUG :- Selected flights with 2 stops
+2023-09-06 19:19:33,299 - DEBUG :- Number of stops 59: 
+2023-09-06 19:33:06,280 - DEBUG :- Please provide a valid input
+2023-09-06 19:33:06,311 - DEBUG :- Number of stops 112: 
+2023-09-06 19:41:45,080 - DEBUG :- Please provide a valid input
+2023-09-06 19:41:45,120 - DEBUG :- Number of stops 112: 
+2023-09-06 20:08:26,936 - DEBUG :- Selected flights with 1 stop
+2023-09-06 20:08:31,006 - DEBUG :- Number of stops 46: 
+2023-09-06 20:10:52,348 - DEBUG :- Selected flights with 1 stop
+2023-09-06 20:10:56,367 - DEBUG :- Number of stops 46: 
+2023-09-06 20:16:38,036 - DEBUG :- Selected flights with 1 stop
+2023-09-06 20:16:42,086 - DEBUG :- Number of stops 46: 
+2023-09-06 20:23:03,341 - DEBUG :- Selected flights with 1 stop
+2023-09-06 20:23:07,380 - DEBUG :- Number of stops 46: 
+2023-09-06 20:24:56,420 - DEBUG :- Please provide a valid input
+2023-09-06 20:24:56,485 - DEBUG :- Number of stops 102: 
+2023-09-06 20:27:47,346 - DEBUG :- Selected flights with 1 stop
+2023-09-06 20:27:51,393 - DEBUG :- Number of stops 46: 
+2023-09-07 18:59:16,938 - DEBUG :- Selected flights with 1 stop
+2023-09-07 18:59:20,994 - DEBUG :- Number of stops 69: 
+2023-09-07 19:00:58,240 - DEBUG :- Please provide a valid input
+2023-09-07 19:00:58,312 - DEBUG :- Number of stops 120: 
+2023-09-07 19:21:26,990 - DEBUG :- Selected flights with 1 stop
+2023-09-07 19:21:31,020 - DEBUG :- Number of stops 49: 
+2023-09-07 19:31:28,346 - DEBUG :- Selected flights with 1 stop
+2023-09-07 19:31:32,376 - DEBUG :- Number of stops 50: 
+2023-09-07 19:34:44,272 - DEBUG :- Selected flights with 1 stop
+2023-09-07 19:34:48,309 - DEBUG :- Number of stops 49: 
+2023-09-07 19:36:54,791 - DEBUG :- Selected flights with 2 stops
+2023-09-07 19:36:58,820 - DEBUG :- Number of stops 59: 
+2023-09-10 11:29:13,643 - DEBUG :- Selected flights with 1 stop
+2023-09-10 11:29:17,674 - DEBUG :- Number of stops 62: 
+2023-09-10 11:37:46,144 - DEBUG :- Selected flights with 2 stops
+2023-09-10 11:37:50,171 - DEBUG :- Number of stops 42: 
+2023-09-10 11:42:22,109 - DEBUG :- Selected flights with 2 stops
+2023-09-10 11:42:26,148 - DEBUG :- Number of stops 74: 
+2023-09-10 18:04:47,030 - DEBUG :- result text is New Delhi (DEL)
+Indira Gandhi International
+India: 
+2023-09-10 18:04:47,031 - DEBUG :- Location is New York (JFK): 
+2023-09-10 18:04:47,080 - DEBUG :- result text is Mumbai (BOM)
+Chhatrapati Shivaji International
+India: 
+2023-09-10 18:04:47,080 - DEBUG :- Location is New York (JFK): 
+2023-09-10 18:04:47,119 - DEBUG :- result text is Bangalore (BLR)
+Kempegowda International
+India: 
+2023-09-10 18:04:47,120 - DEBUG :- Location is New York (JFK): 
+2023-09-10 18:04:47,157 - DEBUG :- result text is Chennai (MAA)
+Chennai International
+India: 
+2023-09-10 18:04:47,157 - DEBUG :- Location is New York (JFK): 
+2023-09-10 18:04:47,191 - DEBUG :- result text is Hyderabad (HYD)
+Shamshabad Rajiv Gandhi
+India: 
+2023-09-10 18:04:47,191 - DEBUG :- Location is New York (JFK): 
+2023-09-10 18:04:47,222 - DEBUG :- result text is Goa (GOI)
+Dabolim
+India: 
+2023-09-10 18:04:47,222 - DEBUG :- Location is New York (JFK): 
+2023-09-10 18:04:47,250 - DEBUG :- result text is Kolkata (CCU)
+Netaji Subhas Chandra Bose
+India: 
+2023-09-10 18:04:47,250 - DEBUG :- Location is New York (JFK): 
+2023-09-10 18:04:47,280 - DEBUG :- result text is Pune (PNQ)
+Lohegaon
+India: 
+2023-09-10 18:04:47,281 - DEBUG :- Location is New York (JFK): 
+2023-09-10 18:04:47,306 - DEBUG :- result text is Jaipur (JAI)
+Sanganeer
+India: 
+2023-09-10 18:04:47,306 - DEBUG :- Location is New York (JFK): 
+2023-09-10 18:04:47,335 - DEBUG :- result text is Lucknow (LKO)
+Amausi
+India: 
+2023-09-10 18:04:47,336 - DEBUG :- Location is New York (JFK): 
+2023-09-10 18:06:19,213 - DEBUG :- result text is New Delhi (DEL)
+Indira Gandhi International
+India: 
+2023-09-10 18:06:19,221 - DEBUG :- Location is Melbourne (MEL): 
+2023-09-10 18:06:19,262 - DEBUG :- result text is Mumbai (BOM)
+Chhatrapati Shivaji International
+India: 
+2023-09-10 18:06:19,262 - DEBUG :- Location is Melbourne (MEL): 
+2023-09-10 18:06:19,302 - DEBUG :- result text is Bangalore (BLR)
+Kempegowda International
+India: 
+2023-09-10 18:06:19,302 - DEBUG :- Location is Melbourne (MEL): 
+2023-09-10 18:06:19,360 - DEBUG :- result text is Chennai (MAA)
+Chennai International
+India: 
+2023-09-10 18:06:19,360 - DEBUG :- Location is Melbourne (MEL): 
+2023-09-10 18:06:19,399 - DEBUG :- result text is Hyderabad (HYD)
+Shamshabad Rajiv Gandhi
+India: 
+2023-09-10 18:06:19,399 - DEBUG :- Location is Melbourne (MEL): 
+2023-09-10 18:06:19,437 - DEBUG :- result text is Goa (GOI)
+Dabolim
+India: 
+2023-09-10 18:06:19,438 - DEBUG :- Location is Melbourne (MEL): 
+2023-09-10 18:06:19,467 - DEBUG :- result text is Kolkata (CCU)
+Netaji Subhas Chandra Bose
+India: 
+2023-09-10 18:06:19,467 - DEBUG :- Location is Melbourne (MEL): 
+2023-09-10 18:06:19,489 - DEBUG :- result text is Pune (PNQ)
+Lohegaon
+India: 
+2023-09-10 18:06:19,489 - DEBUG :- Location is Melbourne (MEL): 
+2023-09-10 18:06:19,527 - DEBUG :- result text is Jaipur (JAI)
+Sanganeer
+India: 
+2023-09-10 18:06:19,527 - DEBUG :- Location is Melbourne (MEL): 
+2023-09-10 18:06:19,558 - DEBUG :- result text is Lucknow (LKO)
+Amausi
+India: 
+2023-09-10 18:06:19,560 - DEBUG :- Location is Melbourne (MEL): 
+2023-09-10 18:12:17,084 - DEBUG :- result text is New Delhi (DEL)
+Indira Gandhi International
+India: 
+2023-09-10 18:12:17,085 - DEBUG :- Location is New York (JFK): 
+2023-09-10 18:12:17,123 - DEBUG :- result text is Mumbai (BOM)
+Chhatrapati Shivaji International
+India: 
+2023-09-10 18:12:17,124 - DEBUG :- Location is New York (JFK): 
+2023-09-10 18:12:17,160 - DEBUG :- result text is Bangalore (BLR)
+Kempegowda International
+India: 
+2023-09-10 18:12:17,160 - DEBUG :- Location is New York (JFK): 
+2023-09-10 18:12:17,194 - DEBUG :- result text is Chennai (MAA)
+Chennai International
+India: 
+2023-09-10 18:12:17,194 - DEBUG :- Location is New York (JFK): 
+2023-09-10 18:12:17,234 - DEBUG :- result text is Hyderabad (HYD)
+Shamshabad Rajiv Gandhi
+India: 
+2023-09-10 18:12:17,234 - DEBUG :- Location is New York (JFK): 
+2023-09-10 18:12:17,269 - DEBUG :- result text is Goa (GOI)
+Dabolim
+India: 
+2023-09-10 18:12:17,270 - DEBUG :- Location is New York (JFK): 
+2023-09-10 18:12:17,307 - DEBUG :- result text is Kolkata (CCU)
+Netaji Subhas Chandra Bose
+India: 
+2023-09-10 18:12:17,307 - DEBUG :- Location is New York (JFK): 
+2023-09-10 18:12:17,347 - DEBUG :- result text is Pune (PNQ)
+Lohegaon
+India: 
+2023-09-10 18:12:17,347 - DEBUG :- Location is New York (JFK): 
+2023-09-10 18:12:17,384 - DEBUG :- result text is Jaipur (JAI)
+Sanganeer
+India: 
+2023-09-10 18:12:17,384 - DEBUG :- Location is New York (JFK): 
+2023-09-10 18:12:17,424 - DEBUG :- result text is Lucknow (LKO)
+Amausi
+India: 
+2023-09-10 18:12:17,424 - DEBUG :- Location is New York (JFK): 
+2023-09-10 18:13:39,964 - DEBUG :- result text is New Delhi (DEL)
+Indira Gandhi International
+India: 
+2023-09-10 18:13:39,964 - DEBUG :- Location is Melbourne (MEL): 
+2023-09-10 18:13:40,001 - DEBUG :- result text is Mumbai (BOM)
+Chhatrapati Shivaji International
+India: 
+2023-09-10 18:13:40,001 - DEBUG :- Location is Melbourne (MEL): 
+2023-09-10 18:13:40,028 - DEBUG :- result text is Bangalore (BLR)
+Kempegowda International
+India: 
+2023-09-10 18:13:40,028 - DEBUG :- Location is Melbourne (MEL): 
+2023-09-10 18:13:40,045 - DEBUG :- result text is Chennai (MAA)
+Chennai International
+India: 
+2023-09-10 18:13:40,062 - DEBUG :- Location is Melbourne (MEL): 
+2023-09-10 18:13:40,092 - DEBUG :- result text is Hyderabad (HYD)
+Shamshabad Rajiv Gandhi
+India: 
+2023-09-10 18:13:40,092 - DEBUG :- Location is Melbourne (MEL): 
+2023-09-10 18:13:40,128 - DEBUG :- result text is Goa (GOI)
+Dabolim
+India: 
+2023-09-10 18:13:40,128 - DEBUG :- Location is Melbourne (MEL): 
+2023-09-10 18:13:40,160 - DEBUG :- result text is Kolkata (CCU)
+Netaji Subhas Chandra Bose
+India: 
+2023-09-10 18:13:40,160 - DEBUG :- Location is Melbourne (MEL): 
+2023-09-10 18:13:40,192 - DEBUG :- result text is Pune (PNQ)
+Lohegaon
+India: 
+2023-09-10 18:13:40,192 - DEBUG :- Location is Melbourne (MEL): 
+2023-09-10 18:13:40,219 - DEBUG :- result text is Jaipur (JAI)
+Sanganeer
+India: 
+2023-09-10 18:13:40,219 - DEBUG :- Location is Melbourne (MEL): 
+2023-09-10 18:13:40,253 - DEBUG :- result text is Lucknow (LKO)
+Amausi
+India: 
+2023-09-10 18:13:40,253 - DEBUG :- Location is Melbourne (MEL): 
+2023-09-10 18:15:09,454 - DEBUG :- result text is Nagpur (NAG)
+Dr Ambedkar
+India: 
+2023-09-10 18:15:09,454 - DEBUG :- Location is New York (JFK): 
+2023-09-10 18:15:09,501 - DEBUG :- result text is Nainital (PGH)
+Pantnagar
+India: 
+2023-09-10 18:15:09,502 - DEBUG :- Location is New York (JFK): 
+2023-09-10 18:15:09,553 - DEBUG :- result text is Nairobi (NBO)
+Jomo Kenyatta
+Kenya: 
+2023-09-10 18:15:09,553 - DEBUG :- Location is New York (JFK): 
+2023-09-10 18:15:09,603 - DEBUG :- result text is Nashik (ISK)
+Gandhinagar
+India: 
+2023-09-10 18:15:09,603 - DEBUG :- Location is New York (JFK): 
+2023-09-10 18:15:09,650 - DEBUG :- result text is Mumbai (BOM)
+Chatrapati Shivaji (169 km from Nashik)
+India: 
+2023-09-10 18:15:09,650 - DEBUG :- Location is New York (JFK): 
+2023-09-10 18:15:09,681 - DEBUG :- result text is Nanded-Waghala (NDC)
+Nanded
+India: 
+2023-09-10 18:15:09,681 - DEBUG :- Location is New York (JFK): 
+2023-09-10 18:15:09,728 - DEBUG :- result text is Nagoya (NGO)
+Chubu Centrair
+Japan: 
+2023-09-10 18:15:09,728 - DEBUG :- Location is New York (JFK): 
+2023-09-10 18:15:09,765 - DEBUG :- result text is Nanking Nanjing (NKG)
+Nanjing
+China: 
+2023-09-10 18:15:09,765 - DEBUG :- Location is New York (JFK): 
+2023-09-10 18:15:09,791 - DEBUG :- result text is Nadi (NAN)
+Nadi
+Fiji: 
+2023-09-10 18:15:09,791 - DEBUG :- Location is New York (JFK): 
+2023-09-10 18:15:09,839 - DEBUG :- result text is Nanchang (KHN)
+Changbei
+China: 
+2023-09-10 18:15:09,839 - DEBUG :- Location is New York (JFK): 
+2023-09-10 18:15:09,874 - DEBUG :- result text is Nanning (NNG)
+Nanning
+China: 
+2023-09-10 18:15:09,874 - DEBUG :- Location is New York (JFK): 
+2023-09-10 18:16:34,102 - DEBUG :- result text is New Delhi (DEL)
+Indira Gandhi International
+India: 
+2023-09-10 18:16:34,102 - DEBUG :- Location is Melbourne (MEL): 
+2023-09-10 18:16:34,150 - DEBUG :- result text is Mumbai (BOM)
+Chhatrapati Shivaji International
+India: 
+2023-09-10 18:16:34,150 - DEBUG :- Location is Melbourne (MEL): 
+2023-09-10 18:16:34,200 - DEBUG :- result text is Bangalore (BLR)
+Kempegowda International
+India: 
+2023-09-10 18:16:34,200 - DEBUG :- Location is Melbourne (MEL): 
+2023-09-10 18:16:34,246 - DEBUG :- result text is Chennai (MAA)
+Chennai International
+India: 
+2023-09-10 18:16:34,246 - DEBUG :- Location is Melbourne (MEL): 
+2023-09-10 18:16:34,289 - DEBUG :- result text is Hyderabad (HYD)
+Shamshabad Rajiv Gandhi
+India: 
+2023-09-10 18:16:34,289 - DEBUG :- Location is Melbourne (MEL): 
+2023-09-10 18:16:34,328 - DEBUG :- result text is Goa (GOI)
+Dabolim
+India: 
+2023-09-10 18:16:34,328 - DEBUG :- Location is Melbourne (MEL): 
+2023-09-10 18:16:34,373 - DEBUG :- result text is Kolkata (CCU)
+Netaji Subhas Chandra Bose
+India: 
+2023-09-10 18:16:34,373 - DEBUG :- Location is Melbourne (MEL): 
+2023-09-10 18:16:34,421 - DEBUG :- result text is Pune (PNQ)
+Lohegaon
+India: 
+2023-09-10 18:16:34,421 - DEBUG :- Location is Melbourne (MEL): 
+2023-09-10 18:16:34,469 - DEBUG :- result text is Jaipur (JAI)
+Sanganeer
+India: 
+2023-09-10 18:16:34,469 - DEBUG :- Location is Melbourne (MEL): 
+2023-09-10 18:16:34,512 - DEBUG :- result text is Lucknow (LKO)
+Amausi
+India: 
+2023-09-10 18:16:34,512 - DEBUG :- Location is Melbourne (MEL): 
+2023-09-10 18:23:34,683 - DEBUG :- result text is New Delhi (DEL)
+Indira Gandhi International
+India: 
+2023-09-10 18:23:34,683 - DEBUG :- Location is New York (JFK): 
+2023-09-10 18:23:34,722 - DEBUG :- result text is New York (NYC)
+All airports
+United States: 
+2023-09-10 18:23:34,722 - DEBUG :- Location is New York (JFK): 
+2023-09-10 18:23:34,773 - DEBUG :- result text is New York (JFK)
+John F Kennedy
+United States: 
+2023-09-10 18:23:34,775 - DEBUG :- Location is New York (JFK): 
+2023-09-10 18:39:27,850 - DEBUG :- result text is New Delhi (DEL)
+Indira Gandhi International
+India: 
+2023-09-10 18:39:27,850 - DEBUG :- Location is New York (JFK): 
+2023-09-10 18:39:27,898 - DEBUG :- result text is Mumbai (BOM)
+Chhatrapati Shivaji International
+India: 
+2023-09-10 18:39:27,898 - DEBUG :- Location is New York (JFK): 
+2023-09-10 18:39:27,947 - DEBUG :- result text is Bangalore (BLR)
+Kempegowda International
+India: 
+2023-09-10 18:39:27,948 - DEBUG :- Location is New York (JFK): 
+2023-09-10 18:39:27,991 - DEBUG :- result text is Chennai (MAA)
+Chennai International
+India: 
+2023-09-10 18:39:27,991 - DEBUG :- Location is New York (JFK): 
+2023-09-10 18:39:28,031 - DEBUG :- result text is Hyderabad (HYD)
+Shamshabad Rajiv Gandhi
+India: 
+2023-09-10 18:39:28,031 - DEBUG :- Location is New York (JFK): 
+2023-09-10 18:39:28,060 - DEBUG :- result text is Goa (GOI)
+Dabolim
+India: 
+2023-09-10 18:39:28,060 - DEBUG :- Location is New York (JFK): 
+2023-09-10 18:39:28,092 - DEBUG :- result text is Kolkata (CCU)
+Netaji Subhas Chandra Bose
+India: 
+2023-09-10 18:39:28,092 - DEBUG :- Location is New York (JFK): 
+2023-09-10 18:39:28,123 - DEBUG :- result text is Pune (PNQ)
+Lohegaon
+India: 
+2023-09-10 18:39:28,123 - DEBUG :- Location is New York (JFK): 
+2023-09-10 18:39:28,170 - DEBUG :- result text is Jaipur (JAI)
+Sanganeer
+India: 
+2023-09-10 18:39:28,170 - DEBUG :- Location is New York (JFK): 
+2023-09-10 18:39:28,201 - DEBUG :- result text is Lucknow (LKO)
+Amausi
+India: 
+2023-09-10 18:39:28,201 - DEBUG :- Location is New York (JFK): 
+2023-09-10 18:40:35,574 - DEBUG :- result text is New Delhi (DEL)
+Indira Gandhi International
+India: 
+2023-09-10 18:40:35,576 - DEBUG :- Location is New York (JFK): 
+2023-09-10 18:40:35,630 - DEBUG :- result text is Mumbai (BOM)
+Chhatrapati Shivaji International
+India: 
+2023-09-10 18:40:35,630 - DEBUG :- Location is New York (JFK): 
+2023-09-10 18:40:35,683 - DEBUG :- result text is Bangalore (BLR)
+Kempegowda International
+India: 
+2023-09-10 18:40:35,683 - DEBUG :- Location is New York (JFK): 
+2023-09-10 18:40:35,722 - DEBUG :- result text is Chennai (MAA)
+Chennai International
+India: 
+2023-09-10 18:40:35,722 - DEBUG :- Location is New York (JFK): 
+2023-09-10 18:40:35,779 - DEBUG :- result text is Hyderabad (HYD)
+Shamshabad Rajiv Gandhi
+India: 
+2023-09-10 18:40:35,779 - DEBUG :- Location is New York (JFK): 
+2023-09-10 18:40:35,825 - DEBUG :- result text is Goa (GOI)
+Dabolim
+India: 
+2023-09-10 18:40:35,826 - DEBUG :- Location is New York (JFK): 
+2023-09-10 18:40:35,866 - DEBUG :- result text is Kolkata (CCU)
+Netaji Subhas Chandra Bose
+India: 
+2023-09-10 18:40:35,866 - DEBUG :- Location is New York (JFK): 
+2023-09-10 18:40:35,902 - DEBUG :- result text is Pune (PNQ)
+Lohegaon
+India: 
+2023-09-10 18:40:35,902 - DEBUG :- Location is New York (JFK): 
+2023-09-10 18:40:35,940 - DEBUG :- result text is Jaipur (JAI)
+Sanganeer
+India: 
+2023-09-10 18:40:35,940 - DEBUG :- Location is New York (JFK): 
+2023-09-10 18:40:35,984 - DEBUG :- result text is Lucknow (LKO)
+Amausi
+India: 
+2023-09-10 18:40:35,985 - DEBUG :- Location is New York (JFK): 
+2023-09-10 18:45:47,495 - DEBUG :- result text is New Delhi (DEL)
+Indira Gandhi International
+India: 
+2023-09-10 18:45:47,495 - DEBUG :- Location is New York (JFK): 
+2023-09-10 18:45:47,550 - DEBUG :- result text is Mumbai (BOM)
+Chhatrapati Shivaji International
+India: 
+2023-09-10 18:45:47,551 - DEBUG :- Location is New York (JFK): 
+2023-09-10 18:45:47,606 - DEBUG :- result text is Bangalore (BLR)
+Kempegowda International
+India: 
+2023-09-10 18:45:47,607 - DEBUG :- Location is New York (JFK): 
+2023-09-10 18:45:47,652 - DEBUG :- result text is Chennai (MAA)
+Chennai International
+India: 
+2023-09-10 18:45:47,652 - DEBUG :- Location is New York (JFK): 
+2023-09-10 18:45:47,692 - DEBUG :- result text is Hyderabad (HYD)
+Shamshabad Rajiv Gandhi
+India: 
+2023-09-10 18:45:47,692 - DEBUG :- Location is New York (JFK): 
+2023-09-10 18:45:47,723 - DEBUG :- result text is Goa (GOI)
+Dabolim
+India: 
+2023-09-10 18:45:47,723 - DEBUG :- Location is New York (JFK): 
+2023-09-10 18:45:47,770 - DEBUG :- result text is Kolkata (CCU)
+Netaji Subhas Chandra Bose
+India: 
+2023-09-10 18:45:47,770 - DEBUG :- Location is New York (JFK): 
+2023-09-10 18:45:47,817 - DEBUG :- result text is Pune (PNQ)
+Lohegaon
+India: 
+2023-09-10 18:45:47,817 - DEBUG :- Location is New York (JFK): 
+2023-09-10 18:45:47,864 - DEBUG :- result text is Jaipur (JAI)
+Sanganeer
+India: 
+2023-09-10 18:45:47,864 - DEBUG :- Location is New York (JFK): 
+2023-09-10 18:45:47,911 - DEBUG :- result text is Lucknow (LKO)
+Amausi
+India: 
+2023-09-10 18:45:47,911 - DEBUG :- Location is New York (JFK): 
+2023-09-10 18:47:01,157 - DEBUG :- result text is New Delhi (DEL)
+Indira Gandhi International
+India: 
+2023-09-10 18:47:01,157 - DEBUG :- Location is New York (JFK): 
+2023-09-10 18:47:01,198 - DEBUG :- result text is Mumbai (BOM)
+Chhatrapati Shivaji International
+India: 
+2023-09-10 18:47:01,198 - DEBUG :- Location is New York (JFK): 
+2023-09-10 18:47:01,246 - DEBUG :- result text is Bangalore (BLR)
+Kempegowda International
+India: 
+2023-09-10 18:47:01,246 - DEBUG :- Location is New York (JFK): 
+2023-09-10 18:47:01,298 - DEBUG :- result text is Chennai (MAA)
+Chennai International
+India: 
+2023-09-10 18:47:01,298 - DEBUG :- Location is New York (JFK): 
+2023-09-10 18:47:01,349 - DEBUG :- result text is Hyderabad (HYD)
+Shamshabad Rajiv Gandhi
+India: 
+2023-09-10 18:47:01,349 - DEBUG :- Location is New York (JFK): 
+2023-09-10 18:47:01,385 - DEBUG :- result text is Goa (GOI)
+Dabolim
+India: 
+2023-09-10 18:47:01,385 - DEBUG :- Location is New York (JFK): 
+2023-09-10 18:47:01,432 - DEBUG :- result text is Kolkata (CCU)
+Netaji Subhas Chandra Bose
+India: 
+2023-09-10 18:47:01,432 - DEBUG :- Location is New York (JFK): 
+2023-09-10 18:47:01,464 - DEBUG :- result text is Pune (PNQ)
+Lohegaon
+India: 
+2023-09-10 18:47:01,464 - DEBUG :- Location is New York (JFK): 
+2023-09-10 18:47:01,514 - DEBUG :- result text is Jaipur (JAI)
+Sanganeer
+India: 
+2023-09-10 18:47:01,514 - DEBUG :- Location is New York (JFK): 
+2023-09-10 18:47:01,548 - DEBUG :- result text is Lucknow (LKO)
+Amausi
+India: 
+2023-09-10 18:47:01,548 - DEBUG :- Location is New York (JFK): 
+2023-09-10 18:53:14,636 - DEBUG :- result text is New Delhi (DEL): 
+2023-09-10 18:53:14,637 - DEBUG :- Location is New York (JFK): 
+2023-09-10 18:53:14,670 - DEBUG :- result text is Indira Gandhi International: 
+2023-09-10 18:53:14,670 - DEBUG :- Location is New York (JFK): 
+2023-09-10 18:53:14,711 - DEBUG :- result text is Mumbai (BOM): 
+2023-09-10 18:53:14,711 - DEBUG :- Location is New York (JFK): 
+2023-09-10 18:53:14,750 - DEBUG :- result text is Chhatrapati Shivaji International: 
+2023-09-10 18:53:14,750 - DEBUG :- Location is New York (JFK): 
+2023-09-10 18:53:14,786 - DEBUG :- result text is Bangalore (BLR): 
+2023-09-10 18:53:14,786 - DEBUG :- Location is New York (JFK): 
+2023-09-10 18:53:14,823 - DEBUG :- result text is Kempegowda International: 
+2023-09-10 18:53:14,823 - DEBUG :- Location is New York (JFK): 
+2023-09-10 18:53:14,849 - DEBUG :- result text is Chennai (MAA): 
+2023-09-10 18:53:14,849 - DEBUG :- Location is New York (JFK): 
+2023-09-10 18:53:14,898 - DEBUG :- result text is Chennai International: 
+2023-09-10 18:53:14,898 - DEBUG :- Location is New York (JFK): 
+2023-09-10 18:53:14,944 - DEBUG :- result text is Hyderabad (HYD): 
+2023-09-10 18:53:14,944 - DEBUG :- Location is New York (JFK): 
+2023-09-10 18:53:14,992 - DEBUG :- result text is Shamshabad Rajiv Gandhi: 
+2023-09-10 18:53:14,992 - DEBUG :- Location is New York (JFK): 
+2023-09-10 18:53:15,026 - DEBUG :- result text is Goa (GOI): 
+2023-09-10 18:53:15,026 - DEBUG :- Location is New York (JFK): 
+2023-09-10 18:53:15,070 - DEBUG :- result text is Dabolim: 
+2023-09-10 18:53:15,070 - DEBUG :- Location is New York (JFK): 
+2023-09-10 18:53:15,102 - DEBUG :- result text is Kolkata (CCU): 
+2023-09-10 18:53:15,102 - DEBUG :- Location is New York (JFK): 
+2023-09-10 18:53:15,141 - DEBUG :- result text is Netaji Subhas Chandra Bose: 
+2023-09-10 18:53:15,141 - DEBUG :- Location is New York (JFK): 
+2023-09-10 18:53:15,172 - DEBUG :- result text is Pune (PNQ): 
+2023-09-10 18:53:15,172 - DEBUG :- Location is New York (JFK): 
+2023-09-10 18:53:15,219 - DEBUG :- result text is Lohegaon: 
+2023-09-10 18:53:15,219 - DEBUG :- Location is New York (JFK): 
+2023-09-10 18:53:15,250 - DEBUG :- result text is Jaipur (JAI): 
+2023-09-10 18:53:15,250 - DEBUG :- Location is New York (JFK): 
+2023-09-10 18:53:15,282 - DEBUG :- result text is Sanganeer: 
+2023-09-10 18:53:15,282 - DEBUG :- Location is New York (JFK): 
+2023-09-10 18:53:15,329 - DEBUG :- result text is Lucknow (LKO): 
+2023-09-10 18:53:15,329 - DEBUG :- Location is New York (JFK): 
+2023-09-10 18:53:15,360 - DEBUG :- result text is Amausi: 
+2023-09-10 18:53:15,360 - DEBUG :- Location is New York (JFK): 
+2023-09-10 18:58:53,128 - DEBUG :- result text is New Delhi (DEL)
+Indira Gandhi International
+India: 
+2023-09-10 18:58:53,128 - DEBUG :- Location is New York: 
+2023-09-10 18:58:53,149 - DEBUG :- result text is Mumbai (BOM)
+Chhatrapati Shivaji International
+India: 
+2023-09-10 18:58:53,150 - DEBUG :- Location is New York: 
+2023-09-10 18:58:53,169 - DEBUG :- result text is New York (LGA)
+La Guardia
+United States: 
+2023-09-10 18:58:53,169 - DEBUG :- Location is New York: 
+2023-09-10 19:14:59,016 - DEBUG :- result text is New Delhi (DEL)
+Indira Gandhi International
+India: 
+2023-09-10 19:14:59,017 - DEBUG :- Location is JFK: 
+2023-09-10 19:14:59,041 - DEBUG :- result text is Mumbai (BOM)
+Chhatrapati Shivaji International
+India: 
+2023-09-10 19:14:59,042 - DEBUG :- Location is JFK: 
+2023-09-10 19:14:59,072 - DEBUG :- result text is Bangalore (BLR)
+Kempegowda International
+India: 
+2023-09-10 19:14:59,073 - DEBUG :- Location is JFK: 
+2023-09-10 19:14:59,094 - DEBUG :- result text is Chennai (MAA)
+Chennai International
+India: 
+2023-09-10 19:14:59,099 - DEBUG :- Location is JFK: 
+2023-09-10 19:14:59,114 - DEBUG :- result text is Hyderabad (HYD)
+Shamshabad Rajiv Gandhi
+India: 
+2023-09-10 19:14:59,114 - DEBUG :- Location is JFK: 
+2023-09-10 19:14:59,127 - DEBUG :- result text is Goa (GOI)
+Dabolim
+India: 
+2023-09-10 19:14:59,127 - DEBUG :- Location is JFK: 
+2023-09-10 19:14:59,141 - DEBUG :- result text is Kolkata (CCU)
+Netaji Subhas Chandra Bose
+India: 
+2023-09-10 19:14:59,141 - DEBUG :- Location is JFK: 
+2023-09-10 19:14:59,156 - DEBUG :- result text is Pune (PNQ)
+Lohegaon
+India: 
+2023-09-10 19:14:59,156 - DEBUG :- Location is JFK: 
+2023-09-10 19:14:59,170 - DEBUG :- result text is Jaipur (JAI)
+Sanganeer
+India: 
+2023-09-10 19:14:59,170 - DEBUG :- Location is JFK: 
+2023-09-10 19:14:59,191 - DEBUG :- result text is Lucknow (LKO)
+Amausi
+India: 
+2023-09-10 19:14:59,191 - DEBUG :- Location is JFK: 
+2023-09-10 19:14:59,209 - DEBUG :- result text is New York (JFK)
+John F Kennedy
+United States: 
+2023-09-10 19:14:59,209 - DEBUG :- Location is JFK: 
+2023-09-10 19:16:17,439 - DEBUG :- result text is New Delhi (DEL)
+Indira Gandhi International
+India: 
+2023-09-10 19:16:17,441 - DEBUG :- Location is JFK: 
+2023-09-10 19:17:13,068 - DEBUG :- result text is New Delhi (DEL)
+Indira Gandhi International
+India: 
+2023-09-10 19:17:13,068 - DEBUG :- Location is JFK: 
+2023-09-10 19:21:03,786 - DEBUG :- result text is New Delhi (DEL)
+Indira Gandhi International
+India: 
+2023-09-10 19:21:03,787 - DEBUG :- Location is JFK: 
+2023-09-10 19:21:03,807 - DEBUG :- result text is Mumbai (BOM)
+Chhatrapati Shivaji International
+India: 
+2023-09-10 19:21:03,807 - DEBUG :- Location is JFK: 
+2023-09-10 19:21:03,836 - DEBUG :- result text is Bangalore (BLR)
+Kempegowda International
+India: 
+2023-09-10 19:21:03,836 - DEBUG :- Location is JFK: 
+2023-09-10 19:21:03,863 - DEBUG :- result text is Chennai (MAA)
+Chennai International
+India: 
+2023-09-10 19:21:03,863 - DEBUG :- Location is JFK: 
+2023-09-10 19:21:03,884 - DEBUG :- result text is Hyderabad (HYD)
+Shamshabad Rajiv Gandhi
+India: 
+2023-09-10 19:21:03,890 - DEBUG :- Location is JFK: 
+2023-09-10 19:21:03,912 - DEBUG :- result text is Goa (GOI)
+Dabolim
+India: 
+2023-09-10 19:21:03,912 - DEBUG :- Location is JFK: 
+2023-09-10 19:21:03,940 - DEBUG :- result text is Kolkata (CCU)
+Netaji Subhas Chandra Bose
+India: 
+2023-09-10 19:21:03,940 - DEBUG :- Location is JFK: 
+2023-09-10 19:21:03,987 - DEBUG :- result text is Pune (PNQ)
+Lohegaon
+India: 
+2023-09-10 19:21:03,987 - DEBUG :- Location is JFK: 
+2023-09-10 19:21:04,016 - DEBUG :- result text is Jaipur (JAI)
+Sanganeer
+India: 
+2023-09-10 19:21:04,016 - DEBUG :- Location is JFK: 
+2023-09-10 19:21:04,043 - DEBUG :- result text is Lucknow (LKO)
+Amausi
+India: 
+2023-09-10 19:21:04,043 - DEBUG :- Location is JFK: 
+2023-09-10 19:23:05,134 - DEBUG :- result text is New Delhi (DEL)
+Indira Gandhi International
+India: 
+2023-09-10 19:23:05,134 - DEBUG :- Location is JFK: 
+2023-09-10 19:23:05,154 - DEBUG :- result text is Mumbai (BOM)
+Chhatrapati Shivaji International
+India: 
+2023-09-10 19:23:05,154 - DEBUG :- Location is JFK: 
+2023-09-10 19:23:05,175 - DEBUG :- result text is Bangalore (BLR)
+Kempegowda International
+India: 
+2023-09-10 19:23:05,175 - DEBUG :- Location is JFK: 
+2023-09-10 19:23:05,196 - DEBUG :- result text is Chennai (MAA)
+Chennai International
+India: 
+2023-09-10 19:23:05,196 - DEBUG :- Location is JFK: 
+2023-09-10 19:23:05,224 - DEBUG :- result text is Hyderabad (HYD)
+Shamshabad Rajiv Gandhi
+India: 
+2023-09-10 19:23:05,224 - DEBUG :- Location is JFK: 
+2023-09-10 19:23:05,252 - DEBUG :- result text is Goa (GOI)
+Dabolim
+India: 
+2023-09-10 19:23:05,252 - DEBUG :- Location is JFK: 
+2023-09-10 19:23:05,279 - DEBUG :- result text is Kolkata (CCU)
+Netaji Subhas Chandra Bose
+India: 
+2023-09-10 19:23:05,280 - DEBUG :- Location is JFK: 
+2023-09-10 19:23:05,325 - DEBUG :- result text is Pune (PNQ)
+Lohegaon
+India: 
+2023-09-10 19:23:05,325 - DEBUG :- Location is JFK: 
+2023-09-10 19:23:05,357 - DEBUG :- result text is Jaipur (JAI)
+Sanganeer
+India: 
+2023-09-10 19:23:05,357 - DEBUG :- Location is JFK: 
+2023-09-10 19:23:05,390 - DEBUG :- result text is Lucknow (LKO)
+Amausi
+India: 
+2023-09-10 19:23:05,391 - DEBUG :- Location is JFK: 
+2023-09-10 19:25:05,849 - DEBUG :- result text is New Delhi (DEL)
+Indira Gandhi International
+India: 
+2023-09-10 19:25:05,849 - DEBUG :- Location is JFK: 
+2023-09-10 19:27:28,341 - DEBUG :- result text is New Delhi (DEL)
+Indira Gandhi International
+India: 
+2023-09-10 19:27:28,342 - DEBUG :- Location is JFK: 
+2023-09-10 19:27:28,357 - DEBUG :- result text is Mumbai (BOM)
+Chhatrapati Shivaji International
+India: 
+2023-09-10 19:27:28,357 - DEBUG :- Location is JFK: 
+2023-09-10 19:28:33,682 - DEBUG :- result text is New Delhi (DEL)
+Indira Gandhi International
+India: 
+2023-09-10 19:28:33,683 - DEBUG :- Location is MEL: 
+2023-09-10 19:28:33,707 - DEBUG :- result text is Mumbai (BOM)
+Chhatrapati Shivaji International
+India: 
+2023-09-10 19:28:33,707 - DEBUG :- Location is MEL: 
+2023-09-10 19:28:33,724 - DEBUG :- result text is Bangalore (BLR)
+Kempegowda International
+India: 
+2023-09-10 19:28:33,724 - DEBUG :- Location is MEL: 
+2023-09-10 19:28:33,740 - DEBUG :- result text is Chennai (MAA)
+Chennai International
+India: 
+2023-09-10 19:28:33,740 - DEBUG :- Location is MEL: 
+2023-09-10 19:28:33,759 - DEBUG :- result text is Hyderabad (HYD)
+Shamshabad Rajiv Gandhi
+India: 
+2023-09-10 19:28:33,759 - DEBUG :- Location is MEL: 
+2023-09-10 19:28:33,778 - DEBUG :- result text is Goa (GOI)
+Dabolim
+India: 
+2023-09-10 19:28:33,778 - DEBUG :- Location is MEL: 
+2023-09-10 19:28:33,795 - DEBUG :- result text is Kolkata (CCU)
+Netaji Subhas Chandra Bose
+India: 
+2023-09-10 19:28:33,795 - DEBUG :- Location is MEL: 
+2023-09-10 19:28:33,813 - DEBUG :- result text is Pune (PNQ)
+Lohegaon
+India: 
+2023-09-10 19:28:33,813 - DEBUG :- Location is MEL: 
+2023-09-10 19:28:33,829 - DEBUG :- result text is Jaipur (JAI)
+Sanganeer
+India: 
+2023-09-10 19:28:33,829 - DEBUG :- Location is MEL: 
+2023-09-10 19:28:33,856 - DEBUG :- result text is Lucknow (LKO)
+Amausi
+India: 
+2023-09-10 19:28:33,856 - DEBUG :- Location is MEL: 
+2023-09-10 19:30:26,261 - DEBUG :- result text is New Delhi (DEL)
+Indira Gandhi International
+India: 
+2023-09-10 19:30:26,261 - DEBUG :- Location is MEL: 
+2023-09-10 19:30:26,281 - DEBUG :- result text is Mumbai (BOM)
+Chhatrapati Shivaji International
+India: 
+2023-09-10 19:30:26,281 - DEBUG :- Location is MEL: 
+2023-09-10 19:30:26,300 - DEBUG :- result text is Bangalore (BLR)
+Kempegowda International
+India: 
+2023-09-10 19:30:26,300 - DEBUG :- Location is MEL: 
+2023-09-10 19:30:26,321 - DEBUG :- result text is Chennai (MAA)
+Chennai International
+India: 
+2023-09-10 19:30:26,321 - DEBUG :- Location is MEL: 
+2023-09-10 19:30:26,342 - DEBUG :- result text is Hyderabad (HYD)
+Shamshabad Rajiv Gandhi
+India: 
+2023-09-10 19:30:26,346 - DEBUG :- Location is MEL: 
+2023-09-10 19:30:26,378 - DEBUG :- result text is Mahe Island (SEZ)
+Seychelles
+Seychelles: 
+2023-09-10 19:30:26,384 - DEBUG :- Location is MEL: 
+2023-09-10 19:30:26,411 - DEBUG :- result text is Chiang Mai (CNX)
+Chiang Mai
+Thailand: 
+2023-09-10 19:30:26,411 - DEBUG :- Location is MEL: 
+2023-09-10 19:30:26,440 - DEBUG :- result text is Dominica (DOM)
+Melville Hall
+Dominica: 
+2023-09-10 19:30:26,440 - DEBUG :- Location is MEL: 
+2023-09-10 19:30:26,462 - DEBUG :- result text is Tilrempt (HRM)
+Hassi R Mel
+Algeria: 
+2023-09-10 19:30:26,462 - DEBUG :- Location is MEL: 
+2023-09-10 19:30:26,498 - DEBUG :- result text is Ludhiana (LUH)
+Ludhiana (45 km from Melarkotla)
+India: 
+2023-09-10 19:30:26,498 - DEBUG :- Location is MEL: 
+2023-09-10 19:32:09,940 - DEBUG :- result text is New Delhi (DEL)
+Indira Gandhi International
+India: 
+2023-09-10 19:32:09,940 - DEBUG :- Location is JFK: 
+2023-09-10 19:32:09,970 - DEBUG :- result text is Mumbai (BOM)
+Chhatrapati Shivaji International
+India: 
+2023-09-10 19:32:09,970 - DEBUG :- Location is JFK: 
+2023-09-10 19:32:09,990 - DEBUG :- result text is Bangalore (BLR)
+Kempegowda International
+India: 
+2023-09-10 19:32:09,990 - DEBUG :- Location is JFK: 
+2023-09-10 19:32:10,010 - DEBUG :- result text is Chennai (MAA)
+Chennai International
+India: 
+2023-09-10 19:32:10,010 - DEBUG :- Location is JFK: 
+2023-09-10 19:32:10,030 - DEBUG :- result text is Hyderabad (HYD)
+Shamshabad Rajiv Gandhi
+India: 
+2023-09-10 19:32:10,030 - DEBUG :- Location is JFK: 
+2023-09-10 19:32:10,052 - DEBUG :- result text is Goa (GOI)
+Dabolim
+India: 
+2023-09-10 19:32:10,052 - DEBUG :- Location is JFK: 
+2023-09-10 19:32:10,073 - DEBUG :- result text is Kolkata (CCU)
+Netaji Subhas Chandra Bose
+India: 
+2023-09-10 19:32:10,073 - DEBUG :- Location is JFK: 
+2023-09-10 19:32:10,100 - DEBUG :- result text is Pune (PNQ)
+Lohegaon
+India: 
+2023-09-10 19:32:10,101 - DEBUG :- Location is JFK: 
+2023-09-10 19:32:10,124 - DEBUG :- result text is Jaipur (JAI)
+Sanganeer
+India: 
+2023-09-10 19:32:10,124 - DEBUG :- Location is JFK: 
+2023-09-10 19:32:10,147 - DEBUG :- result text is Lucknow (LKO)
+Amausi
+India: 
+2023-09-10 19:32:10,147 - DEBUG :- Location is JFK: 
+2023-09-10 19:32:51,204 - DEBUG :- result text is New Delhi (DEL)
+Indira Gandhi International
+India: 
+2023-09-10 19:32:51,204 - DEBUG :- Location is Melbourne: 
+2023-09-10 19:32:51,224 - DEBUG :- result text is Mumbai (BOM)
+Chhatrapati Shivaji International
+India: 
+2023-09-10 19:32:51,224 - DEBUG :- Location is Melbourne: 
+2023-09-10 19:35:14,667 - DEBUG :- result text is New Delhi (DEL)
+Indira Gandhi International
+India: 
+2023-09-10 19:35:14,668 - DEBUG :- Location is JFK: 
+2023-09-10 19:35:14,682 - DEBUG :- result text is Mumbai (BOM)
+Chhatrapati Shivaji International
+India: 
+2023-09-10 19:35:14,687 - DEBUG :- Location is JFK: 
+2023-09-10 19:35:14,705 - DEBUG :- result text is Bangalore (BLR)
+Kempegowda International
+India: 
+2023-09-10 19:35:14,709 - DEBUG :- Location is JFK: 
+2023-09-10 19:35:53,619 - DEBUG :- result text is New Delhi (DEL)
+Indira Gandhi International
+India: 
+2023-09-10 19:35:53,619 - DEBUG :- Location is Melbourne: 
+2023-09-10 19:35:53,662 - DEBUG :- result text is Melbourne (MLB)
+Melbourne Regional
+United States: 
+2023-09-10 19:35:53,663 - DEBUG :- Location is Melbourne: 
+2023-09-10 19:38:31,997 - DEBUG :- result text is New Delhi (DEL)
+Indira Gandhi International
+India: 
+2023-09-10 19:38:31,997 - DEBUG :- Location is JFK: 
+2023-09-10 19:38:32,015 - DEBUG :- result text is Mumbai (BOM)
+Chhatrapati Shivaji International
+India: 
+2023-09-10 19:38:32,015 - DEBUG :- Location is JFK: 
+2023-09-10 19:38:32,046 - DEBUG :- result text is Bangalore (BLR)
+Kempegowda International
+India: 
+2023-09-10 19:38:32,046 - DEBUG :- Location is JFK: 
+2023-09-10 19:38:32,072 - DEBUG :- result text is Chennai (MAA)
+Chennai International
+India: 
+2023-09-10 19:38:32,072 - DEBUG :- Location is JFK: 
+2023-09-10 19:38:32,100 - DEBUG :- result text is Hyderabad (HYD)
+Shamshabad Rajiv Gandhi
+India: 
+2023-09-10 19:38:32,100 - DEBUG :- Location is JFK: 
+2023-09-10 19:38:32,127 - DEBUG :- result text is Goa (GOI)
+Dabolim
+India: 
+2023-09-10 19:38:32,127 - DEBUG :- Location is JFK: 
+2023-09-10 19:38:32,169 - DEBUG :- result text is Kolkata (CCU)
+Netaji Subhas Chandra Bose
+India: 
+2023-09-10 19:38:32,170 - DEBUG :- Location is JFK: 
+2023-09-10 19:38:32,206 - DEBUG :- result text is Pune (PNQ)
+Lohegaon
+India: 
+2023-09-10 19:38:32,206 - DEBUG :- Location is JFK: 
+2023-09-10 19:38:32,231 - DEBUG :- result text is Jaipur (JAI)
+Sanganeer
+India: 
+2023-09-10 19:38:32,231 - DEBUG :- Location is JFK: 
+2023-09-10 19:38:32,259 - DEBUG :- result text is Lucknow (LKO)
+Amausi
+India: 
+2023-09-10 19:38:32,259 - DEBUG :- Location is JFK: 
+2023-09-10 19:39:20,551 - DEBUG :- result text is New Delhi (DEL)
+Indira Gandhi International
+India: 
+2023-09-10 19:39:20,553 - DEBUG :- Location is Melbourne: 
+2023-09-10 19:39:20,571 - DEBUG :- result text is Mumbai (BOM)
+Chhatrapati Shivaji International
+India: 
+2023-09-10 19:39:20,571 - DEBUG :- Location is Melbourne: 
+2023-09-10 19:39:20,594 - DEBUG :- result text is Bangalore (BLR)
+Kempegowda International
+India: 
+2023-09-10 19:39:20,594 - DEBUG :- Location is Melbourne: 
+2023-09-10 19:39:20,615 - DEBUG :- result text is Chennai (MAA)
+Chennai International
+India: 
+2023-09-10 19:39:20,615 - DEBUG :- Location is Melbourne: 
+2023-09-10 19:39:20,641 - DEBUG :- result text is Hyderabad (HYD)
+Shamshabad Rajiv Gandhi
+India: 
+2023-09-10 19:39:20,641 - DEBUG :- Location is Melbourne: 
+2023-09-10 19:39:20,668 - DEBUG :- result text is Goa (GOI)
+Dabolim
+India: 
+2023-09-10 19:39:20,668 - DEBUG :- Location is Melbourne: 
+2023-09-10 19:39:20,700 - DEBUG :- result text is Kolkata (CCU)
+Netaji Subhas Chandra Bose
+India: 
+2023-09-10 19:39:20,700 - DEBUG :- Location is Melbourne: 
+2023-09-10 19:39:20,745 - DEBUG :- result text is Pune (PNQ)
+Lohegaon
+India: 
+2023-09-10 19:39:20,746 - DEBUG :- Location is Melbourne: 
+2023-09-10 19:39:20,773 - DEBUG :- result text is Jaipur (JAI)
+Sanganeer
+India: 
+2023-09-10 19:39:20,773 - DEBUG :- Location is Melbourne: 
+2023-09-10 19:39:20,800 - DEBUG :- result text is Lucknow (LKO)
+Amausi
+India: 
+2023-09-10 19:39:20,800 - DEBUG :- Location is Melbourne: 
+2023-09-10 19:41:08,450 - DEBUG :- result text is New Delhi (DEL)
+Indira Gandhi International
+India: 
+2023-09-10 19:41:08,450 - DEBUG :- Location is JFK: 
+2023-09-10 19:41:08,468 - DEBUG :- result text is Mumbai (BOM)
+Chhatrapati Shivaji International
+India: 
+2023-09-10 19:41:08,468 - DEBUG :- Location is JFK: 
+2023-09-10 19:41:08,489 - DEBUG :- result text is Bangalore (BLR)
+Kempegowda International
+India: 
+2023-09-10 19:41:08,489 - DEBUG :- Location is JFK: 
+2023-09-10 19:41:08,510 - DEBUG :- result text is Chennai (MAA)
+Chennai International
+India: 
+2023-09-10 19:41:08,510 - DEBUG :- Location is JFK: 
+2023-09-10 19:41:08,537 - DEBUG :- result text is Hyderabad (HYD)
+Shamshabad Rajiv Gandhi
+India: 
+2023-09-10 19:41:08,537 - DEBUG :- Location is JFK: 
+2023-09-10 19:41:08,559 - DEBUG :- result text is Goa (GOI)
+Dabolim
+India: 
+2023-09-10 19:41:08,563 - DEBUG :- Location is JFK: 
+2023-09-10 19:41:08,586 - DEBUG :- result text is Kolkata (CCU)
+Netaji Subhas Chandra Bose
+India: 
+2023-09-10 19:41:08,587 - DEBUG :- Location is JFK: 
+2023-09-10 19:41:08,613 - DEBUG :- result text is Pune (PNQ)
+Lohegaon
+India: 
+2023-09-10 19:41:08,614 - DEBUG :- Location is JFK: 
+2023-09-10 19:41:08,658 - DEBUG :- result text is Jaipur (JAI)
+Sanganeer
+India: 
+2023-09-10 19:41:08,658 - DEBUG :- Location is JFK: 
+2023-09-10 19:41:08,688 - DEBUG :- result text is Lucknow (LKO)
+Amausi
+India: 
+2023-09-10 19:41:08,688 - DEBUG :- Location is JFK: 
+2023-09-10 19:42:44,402 - DEBUG :- result text is New Delhi (DEL)
+Indira Gandhi International
+India: 
+2023-09-10 19:42:44,402 - DEBUG :- Location is JFK: 
+2023-09-10 19:42:44,450 - DEBUG :- result text is Mumbai (BOM)
+Chhatrapati Shivaji International
+India: 
+2023-09-10 19:42:44,450 - DEBUG :- Location is JFK: 
+2023-09-10 19:42:44,474 - DEBUG :- result text is Bangalore (BLR)
+Kempegowda International
+India: 
+2023-09-10 19:42:44,474 - DEBUG :- Location is JFK: 
+2023-09-10 19:42:44,501 - DEBUG :- result text is Chennai (MAA)
+Chennai International
+India: 
+2023-09-10 19:42:44,501 - DEBUG :- Location is JFK: 
+2023-09-10 19:42:44,526 - DEBUG :- result text is Hyderabad (HYD)
+Shamshabad Rajiv Gandhi
+India: 
+2023-09-10 19:42:44,526 - DEBUG :- Location is JFK: 
+2023-09-10 19:42:44,552 - DEBUG :- result text is Goa (GOI)
+Dabolim
+India: 
+2023-09-10 19:42:44,552 - DEBUG :- Location is JFK: 
+2023-09-10 19:42:44,594 - DEBUG :- result text is Kolkata (CCU)
+Netaji Subhas Chandra Bose
+India: 
+2023-09-10 19:42:44,594 - DEBUG :- Location is JFK: 
+2023-09-10 19:42:44,620 - DEBUG :- result text is Pune (PNQ)
+Lohegaon
+India: 
+2023-09-10 19:42:44,620 - DEBUG :- Location is JFK: 
+2023-09-10 19:42:44,648 - DEBUG :- result text is Jaipur (JAI)
+Sanganeer
+India: 
+2023-09-10 19:42:44,648 - DEBUG :- Location is JFK: 
+2023-09-10 19:42:44,688 - DEBUG :- result text is Lucknow (LKO)
+Amausi
+India: 
+2023-09-10 19:42:44,689 - DEBUG :- Location is JFK: 
+2023-09-10 19:43:52,329 - DEBUG :- result text is New Delhi (DEL)
+Indira Gandhi International
+India: 
+2023-09-10 19:43:52,329 - DEBUG :- Location is Melbourne: 
+2023-09-10 19:43:52,353 - DEBUG :- result text is Mumbai (BOM)
+Chhatrapati Shivaji International
+India: 
+2023-09-10 19:43:52,354 - DEBUG :- Location is Melbourne: 
+2023-09-10 19:43:52,374 - DEBUG :- result text is Bangalore (BLR)
+Kempegowda International
+India: 
+2023-09-10 19:43:52,374 - DEBUG :- Location is Melbourne: 
+2023-09-10 19:43:52,397 - DEBUG :- result text is Chennai (MAA)
+Chennai International
+India: 
+2023-09-10 19:43:52,397 - DEBUG :- Location is Melbourne: 
+2023-09-10 19:43:52,418 - DEBUG :- result text is Hyderabad (HYD)
+Shamshabad Rajiv Gandhi
+India: 
+2023-09-10 19:43:52,424 - DEBUG :- Location is Melbourne: 
+2023-09-10 19:43:52,467 - DEBUG :- result text is Goa (GOI)
+Dabolim
+India: 
+2023-09-10 19:43:52,473 - DEBUG :- Location is Melbourne: 
+2023-09-10 19:43:52,502 - DEBUG :- result text is Kolkata (CCU)
+Netaji Subhas Chandra Bose
+India: 
+2023-09-10 19:43:52,502 - DEBUG :- Location is Melbourne: 
+2023-09-10 19:43:52,522 - DEBUG :- result text is Pune (PNQ)
+Lohegaon
+India: 
+2023-09-10 19:43:52,522 - DEBUG :- Location is Melbourne: 
+2023-09-10 19:43:52,553 - DEBUG :- result text is Jaipur (JAI)
+Sanganeer
+India: 
+2023-09-10 19:43:52,553 - DEBUG :- Location is Melbourne: 
+2023-09-10 19:43:52,569 - DEBUG :- result text is Lucknow (LKO)
+Amausi
+India: 
+2023-09-10 19:43:52,569 - DEBUG :- Location is Melbourne: 
+2023-09-10 19:43:52,592 - DEBUG :- result text is Melbourne (MEL)
+Tullamarine
+Australia: 
+2023-09-10 19:43:52,592 - DEBUG :- Location is Melbourne: 
+2023-09-10 19:45:02,527 - DEBUG :- result text is New Delhi (DEL)
+Indira Gandhi International
+India: 
+2023-09-10 19:45:02,527 - DEBUG :- Location is JFK: 
+2023-09-10 19:45:02,547 - DEBUG :- result text is Mumbai (BOM)
+Chhatrapati Shivaji International
+India: 
+2023-09-10 19:45:02,548 - DEBUG :- Location is JFK: 
+2023-09-10 19:45:02,566 - DEBUG :- result text is Bangalore (BLR)
+Kempegowda International
+India: 
+2023-09-10 19:45:02,566 - DEBUG :- Location is JFK: 
+2023-09-10 19:45:02,584 - DEBUG :- result text is Chennai (MAA)
+Chennai International
+India: 
+2023-09-10 19:45:02,584 - DEBUG :- Location is JFK: 
+2023-09-10 19:45:02,603 - DEBUG :- result text is Hyderabad (HYD)
+Shamshabad Rajiv Gandhi
+India: 
+2023-09-10 19:45:02,603 - DEBUG :- Location is JFK: 
+2023-09-10 19:45:02,613 - DEBUG :- result text is Goa (GOI)
+Dabolim
+India: 
+2023-09-10 19:45:02,618 - DEBUG :- Location is JFK: 
+2023-09-10 19:45:02,637 - DEBUG :- result text is Kolkata (CCU)
+Netaji Subhas Chandra Bose
+India: 
+2023-09-10 19:45:02,637 - DEBUG :- Location is JFK: 
+2023-09-10 19:45:02,652 - DEBUG :- result text is Pune (PNQ)
+Lohegaon
+India: 
+2023-09-10 19:45:02,652 - DEBUG :- Location is JFK: 
+2023-09-10 19:45:02,669 - DEBUG :- result text is Jaipur (JAI)
+Sanganeer
+India: 
+2023-09-10 19:45:02,669 - DEBUG :- Location is JFK: 
+2023-09-10 19:45:02,700 - DEBUG :- result text is Lucknow (LKO)
+Amausi
+India: 
+2023-09-10 19:45:02,700 - DEBUG :- Location is JFK: 
+2023-09-10 19:45:02,730 - DEBUG :- result text is New Delhi (DEL)
+Indira Gandhi International
+India: 
+2023-09-10 19:45:02,731 - DEBUG :- Location is JFK: 
+2023-09-10 19:45:02,751 - DEBUG :- result text is Mumbai (BOM)
+Chhatrapati Shivaji International
+India: 
+2023-09-10 19:45:02,751 - DEBUG :- Location is JFK: 
+2023-09-10 19:45:02,762 - DEBUG :- result text is Bangalore (BLR)
+Kempegowda International
+India: 
+2023-09-10 19:45:02,776 - DEBUG :- Location is JFK: 
+2023-09-10 19:45:02,797 - DEBUG :- result text is Chennai (MAA)
+Chennai International
+India: 
+2023-09-10 19:45:02,798 - DEBUG :- Location is JFK: 
+2023-09-10 19:45:02,820 - DEBUG :- result text is Hyderabad (HYD)
+Shamshabad Rajiv Gandhi
+India: 
+2023-09-10 19:45:02,820 - DEBUG :- Location is JFK: 
+2023-09-10 19:45:02,851 - DEBUG :- result text is Goa (GOI)
+Dabolim
+India: 
+2023-09-10 19:45:02,851 - DEBUG :- Location is JFK: 
+2023-09-10 19:45:02,877 - DEBUG :- result text is Kolkata (CCU)
+Netaji Subhas Chandra Bose
+India: 
+2023-09-10 19:45:02,877 - DEBUG :- Location is JFK: 
+2023-09-10 19:45:02,893 - DEBUG :- result text is Pune (PNQ)
+Lohegaon
+India: 
+2023-09-10 19:45:02,893 - DEBUG :- Location is JFK: 
+2023-09-10 19:45:02,925 - DEBUG :- result text is Jaipur (JAI)
+Sanganeer
+India: 
+2023-09-10 19:45:02,925 - DEBUG :- Location is JFK: 
+2023-09-10 19:45:02,957 - DEBUG :- result text is Lucknow (LKO)
+Amausi
+India: 
+2023-09-10 19:45:02,957 - DEBUG :- Location is JFK: 
+2023-09-10 19:46:29,612 - DEBUG :- result text is New Delhi (DEL)
+Indira Gandhi International
+India: 
+2023-09-10 19:46:29,614 - DEBUG :- Location is JFK: 
+2023-09-10 19:46:29,640 - DEBUG :- result text is Mumbai (BOM)
+Chhatrapati Shivaji International
+India: 
+2023-09-10 19:46:29,640 - DEBUG :- Location is JFK: 
+2023-09-10 19:46:29,668 - DEBUG :- result text is Bangalore (BLR)
+Kempegowda International
+India: 
+2023-09-10 19:46:29,669 - DEBUG :- Location is JFK: 
+2023-09-10 19:46:29,697 - DEBUG :- result text is Chennai (MAA)
+Chennai International
+India: 
+2023-09-10 19:46:29,698 - DEBUG :- Location is JFK: 
+2023-09-10 19:46:29,723 - DEBUG :- result text is Hyderabad (HYD)
+Shamshabad Rajiv Gandhi
+India: 
+2023-09-10 19:46:29,724 - DEBUG :- Location is JFK: 
+2023-09-10 19:46:29,753 - DEBUG :- result text is Goa (GOI)
+Dabolim
+India: 
+2023-09-10 19:46:29,753 - DEBUG :- Location is JFK: 
+2023-09-10 19:46:29,795 - DEBUG :- result text is Kolkata (CCU)
+Netaji Subhas Chandra Bose
+India: 
+2023-09-10 19:46:29,795 - DEBUG :- Location is JFK: 
+2023-09-10 19:46:29,826 - DEBUG :- result text is Pune (PNQ)
+Lohegaon
+India: 
+2023-09-10 19:46:29,827 - DEBUG :- Location is JFK: 
+2023-09-10 19:46:29,855 - DEBUG :- result text is Jaipur (JAI)
+Sanganeer
+India: 
+2023-09-10 19:46:29,855 - DEBUG :- Location is JFK: 
+2023-09-10 19:46:29,877 - DEBUG :- result text is Lucknow (LKO)
+Amausi
+India: 
+2023-09-10 19:46:29,883 - DEBUG :- Location is JFK: 
+2023-09-10 19:48:08,899 - DEBUG :- result text is New Delhi (DEL)
+Indira Gandhi International
+India: 
+2023-09-10 19:48:08,899 - DEBUG :- Location is JFK: 
+2023-09-10 19:48:08,923 - DEBUG :- result text is Mumbai (BOM)
+Chhatrapati Shivaji International
+India: 
+2023-09-10 19:48:08,925 - DEBUG :- Location is JFK: 
+2023-09-10 19:48:08,947 - DEBUG :- result text is Bangalore (BLR)
+Kempegowda International
+India: 
+2023-09-10 19:48:08,947 - DEBUG :- Location is JFK: 
+2023-09-10 19:48:08,973 - DEBUG :- result text is Chennai (MAA)
+Chennai International
+India: 
+2023-09-10 19:48:08,973 - DEBUG :- Location is JFK: 
+2023-09-10 19:48:08,994 - DEBUG :- result text is Hyderabad (HYD)
+Shamshabad Rajiv Gandhi
+India: 
+2023-09-10 19:48:09,001 - DEBUG :- Location is JFK: 
+2023-09-10 19:48:09,029 - DEBUG :- result text is Goa (GOI)
+Dabolim
+India: 
+2023-09-10 19:48:09,029 - DEBUG :- Location is JFK: 
+2023-09-10 19:48:09,057 - DEBUG :- result text is Kolkata (CCU)
+Netaji Subhas Chandra Bose
+India: 
+2023-09-10 19:48:09,057 - DEBUG :- Location is JFK: 
+2023-09-10 19:48:09,086 - DEBUG :- result text is Pune (PNQ)
+Lohegaon
+India: 
+2023-09-10 19:48:09,086 - DEBUG :- Location is JFK: 
+2023-09-10 19:48:09,112 - DEBUG :- result text is Jaipur (JAI)
+Sanganeer
+India: 
+2023-09-10 19:48:09,113 - DEBUG :- Location is JFK: 
+2023-09-10 19:48:09,130 - DEBUG :- result text is Lucknow (LKO)
+Amausi
+India: 
+2023-09-10 19:48:09,130 - DEBUG :- Location is JFK: 
+2023-09-10 19:48:09,159 - DEBUG :- result text is New York (JFK)
+John F Kennedy
+United States: 
+2023-09-10 19:48:09,159 - DEBUG :- Location is JFK: 
+2023-09-10 19:49:17,445 - DEBUG :- result text is New Delhi (DEL)
+Indira Gandhi International
+India: 
+2023-09-10 19:49:17,445 - DEBUG :- Location is JFK: 
+2023-09-10 19:49:17,466 - DEBUG :- result text is Mumbai (BOM)
+Chhatrapati Shivaji International
+India: 
+2023-09-10 19:49:17,467 - DEBUG :- Location is JFK: 
+2023-09-10 19:49:17,487 - DEBUG :- result text is Bangalore (BLR)
+Kempegowda International
+India: 
+2023-09-10 19:49:17,487 - DEBUG :- Location is JFK: 
+2023-09-10 19:49:17,502 - DEBUG :- result text is Chennai (MAA)
+Chennai International
+India: 
+2023-09-10 19:49:17,502 - DEBUG :- Location is JFK: 
+2023-09-10 19:49:17,535 - DEBUG :- result text is Hyderabad (HYD)
+Shamshabad Rajiv Gandhi
+India: 
+2023-09-10 19:49:17,536 - DEBUG :- Location is JFK: 
+2023-09-10 19:49:17,564 - DEBUG :- result text is Goa (GOI)
+Dabolim
+India: 
+2023-09-10 19:49:17,564 - DEBUG :- Location is JFK: 
+2023-09-10 19:49:17,592 - DEBUG :- result text is Kolkata (CCU)
+Netaji Subhas Chandra Bose
+India: 
+2023-09-10 19:49:17,592 - DEBUG :- Location is JFK: 
+2023-09-10 19:49:17,636 - DEBUG :- result text is Pune (PNQ)
+Lohegaon
+India: 
+2023-09-10 19:49:17,636 - DEBUG :- Location is JFK: 
+2023-09-10 19:49:17,663 - DEBUG :- result text is Jaipur (JAI)
+Sanganeer
+India: 
+2023-09-10 19:49:17,663 - DEBUG :- Location is JFK: 
+2023-09-10 19:49:17,694 - DEBUG :- result text is Lucknow (LKO)
+Amausi
+India: 
+2023-09-10 19:49:17,695 - DEBUG :- Location is JFK: 
+2023-09-10 19:50:52,834 - DEBUG :- result text is New Delhi (DEL)
+Indira Gandhi International
+India: 
+2023-09-10 19:50:52,841 - DEBUG :- Location is Melbourne: 
+2023-09-10 19:50:52,864 - DEBUG :- result text is Mumbai (BOM)
+Chhatrapati Shivaji International
+India: 
+2023-09-10 19:50:52,864 - DEBUG :- Location is Melbourne: 
+2023-09-10 19:50:52,884 - DEBUG :- result text is Bangalore (BLR)
+Kempegowda International
+India: 
+2023-09-10 19:50:52,885 - DEBUG :- Location is Melbourne: 
+2023-09-10 19:50:52,905 - DEBUG :- result text is Chennai (MAA)
+Chennai International
+India: 
+2023-09-10 19:50:52,905 - DEBUG :- Location is Melbourne: 
+2023-09-10 19:50:52,931 - DEBUG :- result text is Hyderabad (HYD)
+Shamshabad Rajiv Gandhi
+India: 
+2023-09-10 19:50:52,932 - DEBUG :- Location is Melbourne: 
+2023-09-10 19:50:52,957 - DEBUG :- result text is Goa (GOI)
+Dabolim
+India: 
+2023-09-10 19:50:52,958 - DEBUG :- Location is Melbourne: 
+2023-09-10 19:50:52,980 - DEBUG :- result text is Kolkata (CCU)
+Netaji Subhas Chandra Bose
+India: 
+2023-09-10 19:50:52,980 - DEBUG :- Location is Melbourne: 
+2023-09-10 19:50:53,019 - DEBUG :- result text is Pune (PNQ)
+Lohegaon
+India: 
+2023-09-10 19:50:53,020 - DEBUG :- Location is Melbourne: 
+2023-09-10 19:50:53,045 - DEBUG :- result text is Jaipur (JAI)
+Sanganeer
+India: 
+2023-09-10 19:50:53,046 - DEBUG :- Location is Melbourne: 
+2023-09-10 19:50:53,072 - DEBUG :- result text is Lucknow (LKO)
+Amausi
+India: 
+2023-09-10 19:50:53,073 - DEBUG :- Location is Melbourne: 
+2023-09-10 20:00:04,096 - DEBUG :- result text is New Delhi (DEL)
+Indira Gandhi International
+India: 
+2023-09-10 20:00:04,096 - DEBUG :- Location is JFK: 
+2023-09-10 20:00:04,144 - DEBUG :- result text is Mumbai (BOM)
+Chhatrapati Shivaji International
+India: 
+2023-09-10 20:00:04,145 - DEBUG :- Location is JFK: 
+2023-09-10 20:00:04,187 - DEBUG :- result text is Bangalore (BLR)
+Kempegowda International
+India: 
+2023-09-10 20:00:04,187 - DEBUG :- Location is JFK: 
+2023-09-10 20:00:04,243 - DEBUG :- result text is Chennai (MAA)
+Chennai International
+India: 
+2023-09-10 20:00:04,246 - DEBUG :- Location is JFK: 
+2023-09-10 20:00:04,284 - DEBUG :- result text is Hyderabad (HYD)
+Shamshabad Rajiv Gandhi
+India: 
+2023-09-10 20:00:04,284 - DEBUG :- Location is JFK: 
+2023-09-10 20:00:04,317 - DEBUG :- result text is Goa (GOI)
+Dabolim
+India: 
+2023-09-10 20:00:04,317 - DEBUG :- Location is JFK: 
+2023-09-10 20:00:04,366 - DEBUG :- result text is Kolkata (CCU)
+Netaji Subhas Chandra Bose
+India: 
+2023-09-10 20:00:04,366 - DEBUG :- Location is JFK: 
+2023-09-10 20:00:04,415 - DEBUG :- result text is Pune (PNQ)
+Lohegaon
+India: 
+2023-09-10 20:00:04,422 - DEBUG :- Location is JFK: 
+2023-09-10 20:00:04,458 - DEBUG :- result text is Jaipur (JAI)
+Sanganeer
+India: 
+2023-09-10 20:00:04,458 - DEBUG :- Location is JFK: 
+2023-09-10 20:00:04,490 - DEBUG :- result text is Lucknow (LKO)
+Amausi
+India: 
+2023-09-10 20:00:04,490 - DEBUG :- Location is JFK: 
+2023-09-10 20:01:36,187 - DEBUG :- result text is New Delhi (DEL)
+Indira Gandhi International
+India: 
+2023-09-10 20:01:36,192 - DEBUG :- Location is Melbourne: 
+2023-09-10 20:01:36,232 - DEBUG :- result text is Mumbai (BOM)
+Chhatrapati Shivaji International
+India: 
+2023-09-10 20:01:36,234 - DEBUG :- Location is Melbourne: 
+2023-09-10 20:01:36,377 - DEBUG :- result text is Bangalore (BLR)
+Kempegowda International
+India: 
+2023-09-10 20:01:36,377 - DEBUG :- Location is Melbourne: 
+2023-09-10 20:01:36,486 - DEBUG :- result text is Chennai (MAA)
+Chennai International
+India: 
+2023-09-10 20:01:36,486 - DEBUG :- Location is Melbourne: 
+2023-09-10 20:01:36,533 - DEBUG :- result text is Hyderabad (HYD)
+Shamshabad Rajiv Gandhi
+India: 
+2023-09-10 20:01:36,533 - DEBUG :- Location is Melbourne: 
+2023-09-10 20:01:36,598 - DEBUG :- result text is Goa (GOI)
+Dabolim
+India: 
+2023-09-10 20:01:36,598 - DEBUG :- Location is Melbourne: 
+2023-09-10 20:01:36,646 - DEBUG :- result text is Kolkata (CCU)
+Netaji Subhas Chandra Bose
+India: 
+2023-09-10 20:01:36,646 - DEBUG :- Location is Melbourne: 
+2023-09-10 20:01:36,687 - DEBUG :- result text is Pune (PNQ)
+Lohegaon
+India: 
+2023-09-10 20:01:36,687 - DEBUG :- Location is Melbourne: 
+2023-09-10 20:01:36,732 - DEBUG :- result text is Jaipur (JAI)
+Sanganeer
+India: 
+2023-09-10 20:01:36,732 - DEBUG :- Location is Melbourne: 
+2023-09-10 20:01:36,778 - DEBUG :- result text is Lucknow (LKO)
+Amausi
+India: 
+2023-09-10 20:01:36,778 - DEBUG :- Location is Melbourne: 
+2023-09-10 20:03:44,333 - DEBUG :- result text is New Delhi (DEL)
+Indira Gandhi International
+India: 
+2023-09-10 20:03:44,333 - DEBUG :- Location is Melbourne: 
+2023-09-10 20:03:44,387 - DEBUG :- result text is Mumbai (BOM)
+Chhatrapati Shivaji International
+India: 
+2023-09-10 20:03:44,388 - DEBUG :- Location is Melbourne: 
+2023-09-10 20:03:44,436 - DEBUG :- result text is Bangalore (BLR)
+Kempegowda International
+India: 
+2023-09-10 20:03:44,436 - DEBUG :- Location is Melbourne: 
+2023-09-10 20:03:44,513 - DEBUG :- result text is Chennai (MAA)
+Chennai International
+India: 
+2023-09-10 20:03:44,513 - DEBUG :- Location is Melbourne: 
+2023-09-10 20:03:44,554 - DEBUG :- result text is Hyderabad (HYD)
+Shamshabad Rajiv Gandhi
+India: 
+2023-09-10 20:03:44,554 - DEBUG :- Location is Melbourne: 
+2023-09-10 20:03:44,595 - DEBUG :- result text is Goa (GOI)
+Dabolim
+India: 
+2023-09-10 20:03:44,595 - DEBUG :- Location is Melbourne: 
+2023-09-10 20:03:44,641 - DEBUG :- result text is Kolkata (CCU)
+Netaji Subhas Chandra Bose
+India: 
+2023-09-10 20:03:44,644 - DEBUG :- Location is Melbourne: 
+2023-09-10 20:03:44,686 - DEBUG :- result text is Pune (PNQ)
+Lohegaon
+India: 
+2023-09-10 20:03:44,686 - DEBUG :- Location is Melbourne: 
+2023-09-10 20:03:44,725 - DEBUG :- result text is Jaipur (JAI)
+Sanganeer
+India: 
+2023-09-10 20:03:44,725 - DEBUG :- Location is Melbourne: 
+2023-09-10 20:03:44,769 - DEBUG :- result text is Lucknow (LKO)
+Amausi
+India: 
+2023-09-10 20:03:44,769 - DEBUG :- Location is Melbourne: 
+2023-09-11 18:56:25,773 - DEBUG :- result text is New Delhi (DEL)
+Indira Gandhi International
+India: 
+2023-09-11 18:56:25,781 - DEBUG :- Location is JFK: 
+2023-09-11 18:56:25,822 - DEBUG :- result text is Mumbai (BOM)
+Chhatrapati Shivaji International
+India: 
+2023-09-11 18:56:25,822 - DEBUG :- Location is JFK: 
+2023-09-11 18:56:25,855 - DEBUG :- result text is Bangalore (BLR)
+Kempegowda International
+India: 
+2023-09-11 18:56:25,855 - DEBUG :- Location is JFK: 
+2023-09-11 18:56:25,883 - DEBUG :- result text is Chennai (MAA)
+Chennai International
+India: 
+2023-09-11 18:56:25,883 - DEBUG :- Location is JFK: 
+2023-09-11 18:56:25,938 - DEBUG :- result text is Hyderabad (HYD)
+Shamshabad Rajiv Gandhi
+India: 
+2023-09-11 18:56:25,938 - DEBUG :- Location is JFK: 
+2023-09-11 18:56:25,980 - DEBUG :- result text is Goa (GOI)
+Dabolim
+India: 
+2023-09-11 18:56:25,980 - DEBUG :- Location is JFK: 
+2023-09-11 18:56:26,018 - DEBUG :- result text is Kolkata (CCU)
+Netaji Subhas Chandra Bose
+India: 
+2023-09-11 18:56:26,018 - DEBUG :- Location is JFK: 
+2023-09-11 18:56:26,081 - DEBUG :- result text is Pune (PNQ)
+Lohegaon
+India: 
+2023-09-11 18:56:26,081 - DEBUG :- Location is JFK: 
+2023-09-11 18:56:26,137 - DEBUG :- result text is Jaipur (JAI)
+Sanganeer
+India: 
+2023-09-11 18:56:26,138 - DEBUG :- Location is JFK: 
+2023-09-11 18:56:26,175 - DEBUG :- result text is Lucknow (LKO)
+Amausi
+India: 
+2023-09-11 18:56:26,175 - DEBUG :- Location is JFK: 
+2023-09-11 18:57:34,983 - DEBUG :- result text is New Delhi (DEL)
+Indira Gandhi International
+India: 
+2023-09-11 18:57:34,983 - DEBUG :- Location is Melbourne: 
+2023-09-11 18:57:35,013 - DEBUG :- result text is Mumbai (BOM)
+Chhatrapati Shivaji International
+India: 
+2023-09-11 18:57:35,013 - DEBUG :- Location is Melbourne: 
+2023-09-11 18:57:35,084 - DEBUG :- result text is Bangalore (BLR)
+Kempegowda International
+India: 
+2023-09-11 18:57:35,084 - DEBUG :- Location is Melbourne: 
+2023-09-11 18:57:35,139 - DEBUG :- result text is Chennai (MAA)
+Chennai International
+India: 
+2023-09-11 18:57:35,139 - DEBUG :- Location is Melbourne: 
+2023-09-11 18:57:35,172 - DEBUG :- result text is Hyderabad (HYD)
+Shamshabad Rajiv Gandhi
+India: 
+2023-09-11 18:57:35,172 - DEBUG :- Location is Melbourne: 
+2023-09-11 18:57:35,202 - DEBUG :- result text is Goa (GOI)
+Dabolim
+India: 
+2023-09-11 18:57:35,202 - DEBUG :- Location is Melbourne: 
+2023-09-11 18:57:35,231 - DEBUG :- result text is Kolkata (CCU)
+Netaji Subhas Chandra Bose
+India: 
+2023-09-11 18:57:35,231 - DEBUG :- Location is Melbourne: 
+2023-09-11 18:57:35,275 - DEBUG :- result text is Pune (PNQ)
+Lohegaon
+India: 
+2023-09-11 18:57:35,275 - DEBUG :- Location is Melbourne: 
+2023-09-11 18:57:35,302 - DEBUG :- result text is Jaipur (JAI)
+Sanganeer
+India: 
+2023-09-11 18:57:35,313 - DEBUG :- Location is Melbourne: 
+2023-09-11 18:57:35,350 - DEBUG :- result text is Lucknow (LKO)
+Amausi
+India: 
+2023-09-11 18:57:35,350 - DEBUG :- Location is Melbourne: 
+2023-09-11 19:04:59,419 - DEBUG :- result text is New Delhi (DEL)
+Indira Gandhi International
+India: 
+2023-09-11 19:04:59,419 - DEBUG :- Location is JFK: 
+2023-09-11 19:06:09,820 - DEBUG :- result text is New Delhi (DEL)
+Indira Gandhi International
+India: 
+2023-09-11 19:06:09,820 - DEBUG :- Location is Melbourne: 
+2023-09-11 19:06:09,863 - DEBUG :- result text is Mumbai (BOM)
+Chhatrapati Shivaji International
+India: 
+2023-09-11 19:06:09,863 - DEBUG :- Location is Melbourne: 
+2023-09-11 19:06:09,904 - DEBUG :- result text is Bangalore (BLR)
+Kempegowda International
+India: 
+2023-09-11 19:06:09,904 - DEBUG :- Location is Melbourne: 
+2023-09-11 19:06:09,963 - DEBUG :- result text is Chennai (MAA)
+Chennai International
+India: 
+2023-09-11 19:06:09,970 - DEBUG :- Location is Melbourne: 
+2023-09-11 19:06:10,002 - DEBUG :- result text is Hyderabad (HYD)
+Shamshabad Rajiv Gandhi
+India: 
+2023-09-11 19:06:10,002 - DEBUG :- Location is Melbourne: 
+2023-09-11 19:06:10,049 - DEBUG :- result text is Goa (GOI)
+Dabolim
+India: 
+2023-09-11 19:06:10,049 - DEBUG :- Location is Melbourne: 
+2023-09-11 19:06:10,077 - DEBUG :- result text is Kolkata (CCU)
+Netaji Subhas Chandra Bose
+India: 
+2023-09-11 19:06:10,077 - DEBUG :- Location is Melbourne: 
+2023-09-11 19:06:10,105 - DEBUG :- result text is Pune (PNQ)
+Lohegaon
+India: 
+2023-09-11 19:06:10,111 - DEBUG :- Location is Melbourne: 
+2023-09-11 19:06:10,140 - DEBUG :- result text is Jaipur (JAI)
+Sanganeer
+India: 
+2023-09-11 19:06:10,140 - DEBUG :- Location is Melbourne: 
+2023-09-11 19:06:10,177 - DEBUG :- result text is Lucknow (LKO)
+Amausi
+India: 
+2023-09-11 19:06:10,177 - DEBUG :- Location is Melbourne: 
+2023-09-11 19:11:55,219 - DEBUG :- result text is New Delhi (DEL)
+Indira Gandhi International
+India: 
+2023-09-11 19:11:55,219 - DEBUG :- Location is Melbourne: 
+2023-09-11 19:13:51,936 - DEBUG :- result text is New Delhi (DEL)
+Indira Gandhi International
+India: 
+2023-09-11 19:13:51,937 - DEBUG :- Location is JFK: 
+2023-09-11 19:14:58,525 - DEBUG :- Selected flights with 1 stop
+2023-09-11 19:15:02,572 - DEBUG :- Number of stops 67: 
+2023-09-11 19:15:37,882 - DEBUG :- result text is New Delhi (DEL)
+Indira Gandhi International
+India: 
+2023-09-11 19:15:37,883 - DEBUG :- Location is Melbourne: 
+2023-09-11 19:16:25,760 - DEBUG :- Selected flights with 2 stops
+2023-09-11 19:16:29,787 - DEBUG :- Number of stops 55: 
+2023-09-11 19:17:10,168 - DEBUG :- result text is New York (JFK)
+John F Kennedy
+United States: 
+2023-09-11 19:17:10,169 - DEBUG :- Location is JFK: 
+2023-09-11 19:18:23,012 - DEBUG :- Selected flights with 1 stop
+2023-09-11 19:18:27,035 - DEBUG :- Number of stops 54: 
+2023-09-11 19:18:51,595 - DEBUG :- result text is New Delhi (DEL)
+Indira Gandhi International
+India: 
+2023-09-11 19:18:51,595 - DEBUG :- Location is Melbourne: 
+2023-09-11 19:18:51,626 - DEBUG :- result text is Mexico City (MEX)
+Benito Juarez
+Mexico: 
+2023-09-11 19:18:51,632 - DEBUG :- Location is Melbourne: 
+2023-09-11 19:21:03,715 - DEBUG :- Selected flights with 2 stops
+2023-09-11 19:27:46,524 - DEBUG :- Selected flights with 2 stops
+2023-09-11 19:36:53,278 - DEBUG :- Selected flights with 2 stops
+2023-09-11 19:41:00,487 - DEBUG :- Selected flights with 2 stops
+2023-09-11 19:41:04,531 - DEBUG :- Number of stops 51: 
+2023-09-11 19:43:59,901 - DEBUG :- Selected flights with 1 stop
+2023-09-11 19:44:03,954 - DEBUG :- Number of stops 67: 
+2023-09-11 19:44:51,846 - DEBUG :- Selected flights with 2 stops
+2023-09-11 19:50:26,926 - DEBUG :- Selected flights with 1 stop
+2023-09-11 19:50:30,973 - DEBUG :- Number of stops 59: 
+2023-09-11 19:51:29,752 - DEBUG :- Selected flights with 2 stops
+2023-09-13 19:29:33,365 - DEBUG :- Selected flights with 1 stop
+2023-09-13 19:29:37,399 - DEBUG :- Number of stops 58: 
+2023-09-13 19:30:24,706 - DEBUG :- Selected flights with 2 stops
+2023-09-13 20:01:38,669 - DEBUG :- result text is New Delhi (DEL)
+Indira Gandhi International
+India: 
+2023-09-13 20:01:38,669 - DEBUG :- Location is JFK: 
+2023-09-13 20:02:00,993 - DEBUG :- result text is New Delhi (DEL)
+Indira Gandhi International
+India: 
+2023-09-13 20:02:00,993 - DEBUG :- Location is Melbourne: 
+2023-09-13 20:02:01,010 - DEBUG :- result text is Mumbai (BOM)
+Chhatrapati Shivaji International
+India: 
+2023-09-13 20:02:01,010 - DEBUG :- Location is Melbourne: 
+2023-09-13 20:02:01,025 - DEBUG :- result text is Bangalore (BLR)
+Kempegowda International
+India: 
+2023-09-13 20:02:01,025 - DEBUG :- Location is Melbourne: 
+2023-09-13 20:02:01,040 - DEBUG :- result text is Chennai (MAA)
+Chennai International
+India: 
+2023-09-13 20:02:01,040 - DEBUG :- Location is Melbourne: 
+2023-09-13 20:02:01,054 - DEBUG :- result text is Hyderabad (HYD)
+Shamshabad Rajiv Gandhi
+India: 
+2023-09-13 20:02:01,054 - DEBUG :- Location is Melbourne: 
+2023-09-13 20:02:01,067 - DEBUG :- result text is Goa (GOI)
+Dabolim
+India: 
+2023-09-13 20:02:01,068 - DEBUG :- Location is Melbourne: 
+2023-09-13 20:02:01,082 - DEBUG :- result text is Kolkata (CCU)
+Netaji Subhas Chandra Bose
+India: 
+2023-09-13 20:02:01,083 - DEBUG :- Location is Melbourne: 
+2023-09-13 20:02:01,098 - DEBUG :- result text is Pune (PNQ)
+Lohegaon
+India: 
+2023-09-13 20:02:01,098 - DEBUG :- Location is Melbourne: 
+2023-09-13 20:02:01,114 - DEBUG :- result text is Jaipur (JAI)
+Sanganeer
+India: 
+2023-09-13 20:02:01,115 - DEBUG :- Location is Melbourne: 
+2023-09-13 20:02:01,130 - DEBUG :- result text is Lucknow (LKO)
+Amausi
+India: 
+2023-09-13 20:02:01,130 - DEBUG :- Location is Melbourne: 
+2023-09-13 20:05:11,840 - DEBUG :- result text is New Delhi (DEL)
+Indira Gandhi International
+India: 
+2023-09-13 20:05:11,841 - DEBUG :- Location is JFK: 
+2023-09-13 20:05:11,863 - DEBUG :- result text is Mumbai (BOM)
+Chhatrapati Shivaji International
+India: 
+2023-09-13 20:05:11,863 - DEBUG :- Location is JFK: 
+2023-09-13 20:05:38,641 - DEBUG :- result text is New Delhi (DEL)
+Indira Gandhi International
+India: 
+2023-09-13 20:05:38,641 - DEBUG :- Location is Melbourne: 
+2023-09-13 20:05:38,662 - DEBUG :- result text is Melbourne (MLB)
+Melbourne Regional
+United States: 
+2023-09-13 20:05:38,668 - DEBUG :- Location is Melbourne: 
+2023-09-13 20:06:20,496 - DEBUG :- Selected flights with 2 stops
+2023-09-13 20:06:24,525 - DEBUG :- Number of stops 41: 
+2023-09-14 19:13:34,086 - DEBUG :- result text is New Delhi (DEL)
+Indira Gandhi International
+India: 
+2023-09-14 19:13:34,087 - DEBUG :- Location is JFK: 
+2023-09-14 19:28:33,697 - DEBUG :- result text is New Delhi (DEL)
+Indira Gandhi International
+India: 
+2023-09-14 19:28:33,698 - DEBUG :- Location is Melbourne: 
+2023-09-14 19:28:33,741 - DEBUG :- result text is Melbourne (MLB)
+Melbourne Regional
+United States: 
+2023-09-14 19:28:33,742 - DEBUG :- Location is Melbourne: 
+2023-09-14 19:29:07,097 - DEBUG :- Selected flights with 2 stops
+2023-09-14 19:29:11,146 - DEBUG :- Number of stops 28: 
+2023-09-14 19:33:40,672 - DEBUG :- result text is New Delhi (DEL)
+Indira Gandhi International
+India: 
+2023-09-14 19:33:40,674 - DEBUG :- Location is Melbourne: 
+2023-09-14 19:33:40,714 - DEBUG :- result text is Melbourne (MLB)
+Melbourne Regional
+United States: 
+2023-09-14 19:33:40,714 - DEBUG :- Location is Melbourne: 
+2023-09-14 19:38:53,237 - DEBUG :- result text is New Delhi (DEL)
+Indira Gandhi International
+India: 
+2023-09-14 19:38:53,243 - DEBUG :- Location is JFK: 
+2023-09-14 19:41:04,064 - DEBUG :- result text is New Delhi (DEL)
+Indira Gandhi International
+India: 
+2023-09-14 19:41:04,072 - DEBUG :- Location is Melbourne: 
+2023-09-14 19:41:04,097 - DEBUG :- result text is Mumbai (BOM)
+Chhatrapati Shivaji International
+India: 
+2023-09-14 19:41:04,097 - DEBUG :- Location is Melbourne: 
+2023-09-14 19:44:24,450 - DEBUG :- result text is New Delhi (DEL)
+Indira Gandhi International
+India: 
+2023-09-14 19:44:24,451 - DEBUG :- Location is Melbourne: 
+2023-09-14 19:44:24,495 - DEBUG :- result text is Melbourne (MLB)
+Melbourne Regional
+United States: 
+2023-09-14 19:44:24,495 - DEBUG :- Location is Melbourne: 
+2023-09-14 19:46:18,856 - DEBUG :- result text is New Delhi (DEL)
+Indira Gandhi International
+India: 
+2023-09-14 19:46:18,856 - DEBUG :- Location is JFK: 
+2023-09-14 19:46:46,278 - DEBUG :- result text is New Delhi (DEL)
+Indira Gandhi International
+India: 
+2023-09-14 19:46:46,282 - DEBUG :- Location is Melbourne(MEL): 
+2023-09-14 19:46:46,328 - DEBUG :- result text is Mumbai (BOM)
+Chhatrapati Shivaji International
+India: 
+2023-09-14 19:46:46,328 - DEBUG :- Location is Melbourne(MEL): 
+2023-09-14 19:46:46,370 - DEBUG :- result text is Bangalore (BLR)
+Kempegowda International
+India: 
+2023-09-14 19:46:46,370 - DEBUG :- Location is Melbourne(MEL): 
+2023-09-14 19:46:46,414 - DEBUG :- result text is Chennai (MAA)
+Chennai International
+India: 
+2023-09-14 19:46:46,414 - DEBUG :- Location is Melbourne(MEL): 
+2023-09-14 19:46:46,466 - DEBUG :- result text is Hyderabad (HYD)
+Shamshabad Rajiv Gandhi
+India: 
+2023-09-14 19:46:46,466 - DEBUG :- Location is Melbourne(MEL): 
+2023-09-14 19:46:46,517 - DEBUG :- result text is Goa (GOI)
+Dabolim
+India: 
+2023-09-14 19:46:46,517 - DEBUG :- Location is Melbourne(MEL): 
+2023-09-14 19:46:46,556 - DEBUG :- result text is Kolkata (CCU)
+Netaji Subhas Chandra Bose
+India: 
+2023-09-14 19:46:46,560 - DEBUG :- Location is Melbourne(MEL): 
+2023-09-14 19:46:46,579 - DEBUG :- result text is Pune (PNQ)
+Lohegaon
+India: 
+2023-09-14 19:46:46,587 - DEBUG :- Location is Melbourne(MEL): 
+2023-09-14 19:46:46,603 - DEBUG :- result text is Jaipur (JAI)
+Sanganeer
+India: 
+2023-09-14 19:46:46,603 - DEBUG :- Location is Melbourne(MEL): 
+2023-09-14 19:46:46,635 - DEBUG :- result text is Lucknow (LKO)
+Amausi
+India: 
+2023-09-14 19:46:46,635 - DEBUG :- Location is Melbourne(MEL): 
+2023-09-14 19:48:52,759 - DEBUG :- result text is New York (JFK)
+John F Kennedy
+United States: 
+2023-09-14 19:48:52,759 - DEBUG :- Location is JFK: 
+2023-09-14 19:49:24,170 - DEBUG :- result text is New Delhi (DEL)
+Indira Gandhi International
+India: 
+2023-09-14 19:49:24,170 - DEBUG :- Location is Melbourne (MEL): 
+2023-09-14 19:49:24,210 - DEBUG :- result text is Mumbai (BOM)
+Chhatrapati Shivaji International
+India: 
+2023-09-14 19:49:24,210 - DEBUG :- Location is Melbourne (MEL): 
+2023-09-14 19:49:24,285 - DEBUG :- result text is Bangalore (BLR)
+Kempegowda International
+India: 
+2023-09-14 19:49:24,293 - DEBUG :- Location is Melbourne (MEL): 
+2023-09-14 19:49:24,362 - DEBUG :- result text is Chennai (MAA)
+Chennai International
+India: 
+2023-09-14 19:49:24,362 - DEBUG :- Location is Melbourne (MEL): 
+2023-09-14 19:49:24,439 - DEBUG :- result text is Hyderabad (HYD)
+Shamshabad Rajiv Gandhi
+India: 
+2023-09-14 19:49:24,439 - DEBUG :- Location is Melbourne (MEL): 
+2023-09-14 19:49:24,476 - DEBUG :- result text is Goa (GOI)
+Dabolim
+India: 
+2023-09-14 19:49:24,479 - DEBUG :- Location is Melbourne (MEL): 
+2023-09-14 19:49:24,506 - DEBUG :- result text is Kolkata (CCU)
+Netaji Subhas Chandra Bose
+India: 
+2023-09-14 19:49:24,506 - DEBUG :- Location is Melbourne (MEL): 
+2023-09-14 19:49:24,537 - DEBUG :- result text is Pune (PNQ)
+Lohegaon
+India: 
+2023-09-14 19:49:24,537 - DEBUG :- Location is Melbourne (MEL): 
+2023-09-14 19:49:24,566 - DEBUG :- result text is Jaipur (JAI)
+Sanganeer
+India: 
+2023-09-14 19:49:24,566 - DEBUG :- Location is Melbourne (MEL): 
+2023-09-14 19:49:24,601 - DEBUG :- result text is Lucknow (LKO)
+Amausi
+India: 
+2023-09-14 19:49:24,601 - DEBUG :- Location is Melbourne (MEL): 
+2023-09-14 20:13:36,979 - DEBUG :- result text is New Delhi (DEL)
+Indira Gandhi International
+India: 
+2023-09-14 20:13:36,979 - DEBUG :- Location is JFK: 
+2023-09-14 20:13:37,008 - DEBUG :- result text is Mumbai (BOM)
+Chhatrapati Shivaji International
+India: 
+2023-09-14 20:13:37,008 - DEBUG :- Location is JFK: 
+2023-09-14 20:13:37,031 - DEBUG :- result text is Bangalore (BLR)
+Kempegowda International
+India: 
+2023-09-14 20:13:37,031 - DEBUG :- Location is JFK: 
+2023-09-14 20:14:25,073 - DEBUG :- result text is New Delhi (DEL)
+Indira Gandhi International
+India: 
+2023-09-14 20:14:25,073 - DEBUG :- Location is Melbourne (MEL): 
+2023-09-14 20:14:25,105 - DEBUG :- result text is Mumbai (BOM)
+Chhatrapati Shivaji International
+India: 
+2023-09-14 20:14:25,120 - DEBUG :- Location is Melbourne (MEL): 
+2023-09-14 20:14:25,167 - DEBUG :- result text is Bangalore (BLR)
+Kempegowda International
+India: 
+2023-09-14 20:14:25,167 - DEBUG :- Location is Melbourne (MEL): 
+2023-09-14 20:14:25,245 - DEBUG :- result text is Chennai (MAA)
+Chennai International
+India: 
+2023-09-14 20:14:25,245 - DEBUG :- Location is Melbourne (MEL): 
+2023-09-14 20:14:25,292 - DEBUG :- result text is Hyderabad (HYD)
+Shamshabad Rajiv Gandhi
+India: 
+2023-09-14 20:14:25,292 - DEBUG :- Location is Melbourne (MEL): 
+2023-09-14 20:14:25,339 - DEBUG :- result text is Goa (GOI)
+Dabolim
+India: 
+2023-09-14 20:14:25,339 - DEBUG :- Location is Melbourne (MEL): 
+2023-09-14 20:14:25,401 - DEBUG :- result text is Kolkata (CCU)
+Netaji Subhas Chandra Bose
+India: 
+2023-09-14 20:14:25,401 - DEBUG :- Location is Melbourne (MEL): 
+2023-09-14 20:14:25,448 - DEBUG :- result text is Pune (PNQ)
+Lohegaon
+India: 
+2023-09-14 20:14:25,448 - DEBUG :- Location is Melbourne (MEL): 
+2023-09-14 20:14:25,480 - DEBUG :- result text is Jaipur (JAI)
+Sanganeer
+India: 
+2023-09-14 20:14:25,480 - DEBUG :- Location is Melbourne (MEL): 
+2023-09-14 20:14:25,511 - DEBUG :- result text is Lucknow (LKO)
+Amausi
+India: 
+2023-09-14 20:14:25,511 - DEBUG :- Location is Melbourne (MEL): 
+2023-09-14 20:15:52,506 - DEBUG :- result text is New Delhi (DEL)
+Indira Gandhi International
+India: 
+2023-09-14 20:15:52,507 - DEBUG :- Location is JFK: 
+2023-09-14 20:16:27,193 - DEBUG :- result text is New Delhi (DEL)
+Indira Gandhi International
+India: 
+2023-09-14 20:16:27,193 - DEBUG :- Location is Melbourne (MEL): 
+2023-09-14 20:16:27,244 - DEBUG :- result text is Mumbai (BOM)
+Chhatrapati Shivaji International
+India: 
+2023-09-14 20:16:27,244 - DEBUG :- Location is Melbourne (MEL): 
+2023-09-14 20:16:27,284 - DEBUG :- result text is Bangalore (BLR)
+Kempegowda International
+India: 
+2023-09-14 20:16:27,284 - DEBUG :- Location is Melbourne (MEL): 
+2023-09-14 20:16:27,312 - DEBUG :- result text is Chennai (MAA)
+Chennai International
+India: 
+2023-09-14 20:16:27,312 - DEBUG :- Location is Melbourne (MEL): 
+2023-09-14 20:16:27,352 - DEBUG :- result text is Hyderabad (HYD)
+Shamshabad Rajiv Gandhi
+India: 
+2023-09-14 20:16:27,355 - DEBUG :- Location is Melbourne (MEL): 
+2023-09-14 20:16:27,385 - DEBUG :- result text is Goa (GOI)
+Dabolim
+India: 
+2023-09-14 20:16:27,385 - DEBUG :- Location is Melbourne (MEL): 
+2023-09-14 20:16:27,417 - DEBUG :- result text is Kolkata (CCU)
+Netaji Subhas Chandra Bose
+India: 
+2023-09-14 20:16:27,417 - DEBUG :- Location is Melbourne (MEL): 
+2023-09-14 20:16:27,450 - DEBUG :- result text is Pune (PNQ)
+Lohegaon
+India: 
+2023-09-14 20:16:27,450 - DEBUG :- Location is Melbourne (MEL): 
+2023-09-14 20:16:27,479 - DEBUG :- result text is Jaipur (JAI)
+Sanganeer
+India: 
+2023-09-14 20:16:27,480 - DEBUG :- Location is Melbourne (MEL): 
+2023-09-14 20:16:27,511 - DEBUG :- result text is Lucknow (LKO)
+Amausi
+India: 
+2023-09-14 20:16:27,511 - DEBUG :- Location is Melbourne (MEL): 
+2023-09-16 11:18:59,421 - DEBUG :- result text is New Delhi (DEL)
+Indira Gandhi International
+India: 
+2023-09-16 11:18:59,421 - DEBUG :- Location is JFK: 
+2023-09-16 11:31:36,913 - DEBUG :- <selenium.webdriver.remote.webelement.WebElement (session="929ebe1ef3f1c0ef1d0b06c421104987", element="3CD03F2552B32DB8BC141A5742B64E29_element_79")>
+2023-09-16 11:31:50,150 - DEBUG :- <selenium.webdriver.remote.webelement.WebElement (session="f46e5a41082fe4b6d60585549f3b80c2", element="BDAC8C3F1132AC6A4521EAD5F6423C24_element_80")>
+2023-09-16 11:46:58,461 - DEBUG :- result text is New Delhi (DEL)
+Indira Gandhi International
+India: 
+2023-09-16 11:46:58,462 - DEBUG :- Location is JFK: 
+2023-09-16 11:46:58,480 - DEBUG :- result text is Mumbai (BOM)
+Chhatrapati Shivaji International
+India: 
+2023-09-16 11:46:58,481 - DEBUG :- Location is JFK: 
+2023-09-16 11:46:58,508 - DEBUG :- result text is Bangalore (BLR)
+Kempegowda International
+India: 
+2023-09-16 11:46:58,508 - DEBUG :- Location is JFK: 
+2023-09-16 11:46:58,532 - DEBUG :- result text is Chennai (MAA)
+Chennai International
+India: 
+2023-09-16 11:46:58,532 - DEBUG :- Location is JFK: 
+2023-09-16 11:49:58,019 - DEBUG :- result text is New Delhi (DEL)
+Indira Gandhi International
+India: 
+2023-09-16 11:49:58,019 - DEBUG :- Location is JFK: 
+2023-09-16 11:49:58,036 - DEBUG :- result text is Mumbai (BOM)
+Chhatrapati Shivaji International
+India: 
+2023-09-16 11:49:58,036 - DEBUG :- Location is JFK: 
+2023-09-16 11:49:58,060 - DEBUG :- result text is Bangalore (BLR)
+Kempegowda International
+India: 
+2023-09-16 11:49:58,060 - DEBUG :- Location is JFK: 
+2023-09-16 11:49:58,078 - DEBUG :- result text is Chennai (MAA)
+Chennai International
+India: 
+2023-09-16 11:49:58,078 - DEBUG :- Location is JFK: 
+2023-09-16 11:49:58,105 - DEBUG :- result text is Hyderabad (HYD)
+Shamshabad Rajiv Gandhi
+India: 
+2023-09-16 11:49:58,106 - DEBUG :- Location is JFK: 
+2023-09-16 11:49:58,127 - DEBUG :- result text is Goa (GOI)
+Dabolim
+India: 
+2023-09-16 11:49:58,133 - DEBUG :- Location is JFK: 
+2023-09-16 11:49:58,154 - DEBUG :- result text is Kolkata (CCU)
+Netaji Subhas Chandra Bose
+India: 
+2023-09-16 11:49:58,161 - DEBUG :- Location is JFK: 
+2023-09-16 11:49:58,182 - DEBUG :- result text is Pune (PNQ)
+Lohegaon
+India: 
+2023-09-16 11:49:58,189 - DEBUG :- Location is JFK: 
+2023-09-16 11:49:58,212 - DEBUG :- result text is Jaipur (JAI)
+Sanganeer
+India: 
+2023-09-16 11:49:58,213 - DEBUG :- Location is JFK: 
+2023-09-16 11:49:58,236 - DEBUG :- result text is Lucknow (LKO)
+Amausi
+India: 
+2023-09-16 11:49:58,236 - DEBUG :- Location is JFK: 
+2023-09-16 11:51:38,497 - DEBUG :- IN CLOSE POPUP
+2023-09-16 11:52:05,890 - DEBUG :- IN CLOSE POPUP
+2023-09-16 11:52:19,259 - DEBUG :- result text is New Delhi (DEL)
+Indira Gandhi International
+India: 
+2023-09-16 11:52:19,259 - DEBUG :- Location is Melbourne (MEL): 
+2023-09-16 11:52:19,286 - DEBUG :- result text is Mumbai (BOM)
+Chhatrapati Shivaji International
+India: 
+2023-09-16 11:52:19,286 - DEBUG :- Location is Melbourne (MEL): 
+2023-09-16 11:52:19,314 - DEBUG :- result text is Bangalore (BLR)
+Kempegowda International
+India: 
+2023-09-16 11:52:19,314 - DEBUG :- Location is Melbourne (MEL): 
+2023-09-16 11:52:19,342 - DEBUG :- result text is Chennai (MAA)
+Chennai International
+India: 
+2023-09-16 11:52:19,342 - DEBUG :- Location is Melbourne (MEL): 
+2023-09-16 11:52:19,356 - DEBUG :- result text is Hyderabad (HYD)
+Shamshabad Rajiv Gandhi
+India: 
+2023-09-16 11:52:19,356 - DEBUG :- Location is Melbourne (MEL): 
+2023-09-16 11:52:19,370 - DEBUG :- result text is Goa (GOI)
+Dabolim
+India: 
+2023-09-16 11:52:19,370 - DEBUG :- Location is Melbourne (MEL): 
+2023-09-16 11:52:19,386 - DEBUG :- result text is Kolkata (CCU)
+Netaji Subhas Chandra Bose
+India: 
+2023-09-16 11:52:19,386 - DEBUG :- Location is Melbourne (MEL): 
+2023-09-16 11:52:19,398 - DEBUG :- result text is Pune (PNQ)
+Lohegaon
+India: 
+2023-09-16 11:52:19,398 - DEBUG :- Location is Melbourne (MEL): 
+2023-09-16 11:52:19,411 - DEBUG :- result text is Jaipur (JAI)
+Sanganeer
+India: 
+2023-09-16 11:52:19,411 - DEBUG :- Location is Melbourne (MEL): 
+2023-09-16 11:52:19,426 - DEBUG :- result text is Lucknow (LKO)
+Amausi
+India: 
+2023-09-16 11:52:19,426 - DEBUG :- Location is Melbourne (MEL): 
+2023-09-16 11:52:53,519 - DEBUG :- IN CLOSE POPUP
+2023-09-16 11:53:21,002 - DEBUG :- result text is New Delhi (DEL)
+Indira Gandhi International
+India: 
+2023-09-16 11:53:21,002 - DEBUG :- Location is JFK: 
+2023-09-16 11:53:34,731 - DEBUG :- IN CLOSE POPUP
+2023-09-16 12:35:13,745 - DEBUG :- 61BCFA80CF5762EC1232074833CB9EE2
+2023-09-16 12:37:28,750 - DEBUG :- Curr Win
+2023-09-16 12:38:18,941 - DEBUG :- Curr Win
+2023-09-16 12:40:59,175 - DEBUG :- Curr Win
+2023-09-16 12:41:43,728 - DEBUG :- Curr Win
+2023-09-16 12:43:32,326 - DEBUG :- Curr Win
+2023-09-16 12:43:32,350 - DEBUG :- <selenium.webdriver.remote.webelement.WebElement (session="ab3163bfd70f42e186de05771e13bb8a", element="4663F368366F34DC53F257FC55AE9970_element_80")>
+2023-09-16 12:44:00,027 - DEBUG :- Curr Win
+2023-09-16 12:44:01,295 - DEBUG :- <selenium.webdriver.remote.webelement.WebElement (session="dbc93e99686ba987097a45b643a121d0", element="A1F1C44FAA9FEBFF4788CE9F9501E671_element_78")>
+2023-09-16 12:48:00,830 - DEBUG :- Curr Win
+2023-09-16 12:48:08,735 - DEBUG :- <selenium.webdriver.remote.webelement.WebElement (session="7ceb81c6b66334f167f8c46e37580dfc", element="B7B6B8BCDBDA0670B9ACEA5147956787_element_76")>
+2023-09-16 12:48:26,720 - DEBUG :- Curr Win
+2023-09-16 12:48:28,922 - DEBUG :- <selenium.webdriver.remote.webelement.WebElement (session="af885332aef39e53710f511a445b56d9", element="DBB19284A2B249B770B3F6E28C09D453_element_82")>
+2023-09-16 12:50:22,455 - DEBUG :- Curr Win
+2023-09-16 12:50:22,482 - DEBUG :- <selenium.webdriver.remote.webelement.WebElement (session="4735854081de0064ac29a0809d4d9f0b", element="CF39E139D6361B9480C89D39A684ADD8_element_39")>
+2023-09-16 12:50:47,061 - DEBUG :- Curr Win
+2023-09-16 12:50:48,344 - DEBUG :- <selenium.webdriver.remote.webelement.WebElement (session="2689a97d7308fd659f40e25bfbc59a96", element="8D387E8BE2B8B5D2868155E9D7246F9D_element_79")>
+2023-09-16 12:52:31,953 - DEBUG :- Curr Win
+2023-09-16 12:52:35,892 - DEBUG :- <selenium.webdriver.remote.webelement.WebElement (session="9e353c9c0d44704a432bac1d06205db9", element="1F7B96357D7F4C2B334BD26C2D551E57_element_79")>
+2023-09-16 12:52:49,543 - DEBUG :- Curr Win
+2023-09-16 12:52:52,330 - DEBUG :- <selenium.webdriver.remote.webelement.WebElement (session="5946424a2f4654ebbffcd09a6ea723b2", element="ED8ECE08E22049FF4334216A41599404_element_62")>
+2023-09-16 12:54:09,349 - DEBUG :- Curr Win
+2023-09-16 12:54:34,264 - DEBUG :- <selenium.webdriver.remote.webelement.WebElement (session="cf74a124144153f2f61002cc38909804", element="D3C0E95620F35B75BB6225F5C6F95565_element_39")>
+2023-09-16 12:54:42,300 - DEBUG :- result text is New York (JFK)
+John F Kennedy
+United States: 
+2023-09-16 12:54:42,363 - DEBUG :- Location is JFK: 
+2023-09-16 12:55:01,411 - DEBUG :- Curr Win
+2023-09-16 12:58:43,085 - DEBUG :- Curr Win
+2023-09-16 12:58:48,419 - DEBUG :- <selenium.webdriver.remote.webelement.WebElement (session="0b2e6201eb07f666efdd212f0aab8e90", element="30CFDF79B950D7F095C223D2C02DB334_element_84")>
+2023-09-16 12:59:07,321 - DEBUG :- Curr Win
+2023-09-16 12:59:09,021 - DEBUG :- <selenium.webdriver.remote.webelement.WebElement (session="9c8f8d6ea2db26021b48f1170b57a2bd", element="E12B14AF6036CBF24D668D256474F508_element_29")>
+2023-09-16 13:00:39,857 - DEBUG :- Curr Win
+2023-09-16 13:01:53,023 - DEBUG :- Curr Win
+2023-09-16 13:04:12,112 - DEBUG :- Curr Win
+2023-09-16 13:04:12,147 - DEBUG :- <selenium.webdriver.remote.webelement.WebElement (session="62f708b0848d2415d4015dc69c65d275", element="BDE5D09C9FF32EEDA20BB514EF884D3B_element_78")>
+2023-09-16 13:04:46,389 - DEBUG :- Curr Win
+2023-09-16 13:05:53,071 - DEBUG :- Curr Win
+2023-09-16 13:05:53,099 - DEBUG :- <selenium.webdriver.remote.webelement.WebElement (session="43deb05da87f4508412fcab741dd4a07", element="B42B86C38D595EEC9E3DBAA5FD144A55_element_84")>
+2023-09-16 13:06:02,190 - DEBUG :- result text is New Delhi (DEL)
+Indira Gandhi International
+India: 
+2023-09-16 13:06:02,190 - DEBUG :- Location is JFK: 
+2023-09-16 13:06:24,467 - DEBUG :- Curr Win
+2023-09-16 13:06:29,958 - DEBUG :- <selenium.webdriver.remote.webelement.WebElement (session="623f33da3b4492c755f8ad28e3260c84", element="B253A792B744EC3907B327B593E6FD0E_element_83")>
+2023-09-16 13:07:23,275 - DEBUG :- Curr Win
+2023-09-16 13:07:23,361 - DEBUG :- <selenium.webdriver.remote.webelement.WebElement (session="d64c4345e1a45ecade48d37aba661fde", element="ADDB4784BFD88F5CA2CD24A003B94A8B_element_63")>
+2023-09-16 13:07:32,295 - DEBUG :- result text is New Delhi (DEL)
+Indira Gandhi International
+India: 
+2023-09-16 13:07:32,295 - DEBUG :- Location is JFK: 
+2023-09-16 13:07:53,909 - DEBUG :- Curr Win
+2023-09-16 13:07:55,227 - DEBUG :- <selenium.webdriver.remote.webelement.WebElement (session="9a13aead9b03f51a7e37d3d3335a7792", element="DC6C20D75EEADBA24F542B44AB5F4A7A_element_43")>
+2023-09-16 13:08:31,067 - DEBUG :- Curr Win
+2023-09-16 13:08:31,099 - DEBUG :- <selenium.webdriver.remote.webelement.WebElement (session="1a487ee21c175865dedac7403e1cc1da", element="3E1C4C308476C45C58BC69B2AE06986E_element_43")>
+2023-09-16 13:08:40,032 - DEBUG :- result text is New York (JFK)
+John F Kennedy
+United States: 
+2023-09-16 13:08:40,032 - DEBUG :- Location is JFK: 
+2023-09-16 13:09:19,660 - DEBUG :- Curr Win
+2023-09-16 13:09:23,088 - DEBUG :- <selenium.webdriver.remote.webelement.WebElement (session="a8b4c7ecb627ae1b93b02064d2fb71b2", element="32F1D5621D067B5DA53E27CB004E8AFE_element_82")>
+2023-09-16 13:18:14,325 - DEBUG :- Curr Win
+2023-09-16 13:18:14,356 - DEBUG :- <selenium.webdriver.remote.webelement.WebElement (session="5e9c89e0b84a96c1134465b29cbef714", element="88C94C94F57CE9E83BC43E529AB071B2_element_73")>
+2023-09-16 13:18:33,513 - DEBUG :- result text is New Delhi (DEL)
+Indira Gandhi International
+India: 
+2023-09-16 13:18:33,515 - DEBUG :- Location is JFK: 
+2023-09-16 13:18:33,555 - DEBUG :- result text is Mumbai (BOM)
+Chhatrapati Shivaji International
+India: 
+2023-09-16 13:18:33,556 - DEBUG :- Location is JFK: 
+2023-09-16 13:18:51,497 - DEBUG :- Curr Win
+2023-09-16 13:18:51,528 - DEBUG :- <selenium.webdriver.remote.webelement.WebElement (session="6703ede83602ba6b345ef4ef69facc93", element="4E2462A6284474B2E29E007F8B8AA776_element_82")>
+2023-09-16 13:19:04,059 - DEBUG :- result text is New Delhi (DEL)
+Indira Gandhi International
+India: 
+2023-09-16 13:19:04,059 - DEBUG :- Location is Melbourne (MEL): 
+2023-09-16 13:19:04,116 - DEBUG :- result text is Mumbai (BOM)
+Chhatrapati Shivaji International
+India: 
+2023-09-16 13:19:04,119 - DEBUG :- Location is Melbourne (MEL): 
+2023-09-16 13:19:04,167 - DEBUG :- result text is Bangalore (BLR)
+Kempegowda International
+India: 
+2023-09-16 13:19:04,167 - DEBUG :- Location is Melbourne (MEL): 
+2023-09-16 13:19:04,219 - DEBUG :- result text is Chennai (MAA)
+Chennai International
+India: 
+2023-09-16 13:19:04,220 - DEBUG :- Location is Melbourne (MEL): 
+2023-09-16 13:19:04,259 - DEBUG :- result text is Hyderabad (HYD)
+Shamshabad Rajiv Gandhi
+India: 
+2023-09-16 13:19:04,259 - DEBUG :- Location is Melbourne (MEL): 
+2023-09-16 13:19:04,307 - DEBUG :- result text is Goa (GOI)
+Dabolim
+India: 
+2023-09-16 13:19:04,307 - DEBUG :- Location is Melbourne (MEL): 
+2023-09-16 13:19:04,354 - DEBUG :- result text is Kolkata (CCU)
+Netaji Subhas Chandra Bose
+India: 
+2023-09-16 13:19:04,354 - DEBUG :- Location is Melbourne (MEL): 
+2023-09-16 13:19:04,402 - DEBUG :- result text is Pune (PNQ)
+Lohegaon
+India: 
+2023-09-16 13:19:04,413 - DEBUG :- Location is Melbourne (MEL): 
+2023-09-16 13:19:04,449 - DEBUG :- result text is Jaipur (JAI)
+Sanganeer
+India: 
+2023-09-16 13:19:04,449 - DEBUG :- Location is Melbourne (MEL): 
+2023-09-16 13:19:04,496 - DEBUG :- result text is Lucknow (LKO)
+Amausi
+India: 
+2023-09-16 13:19:04,496 - DEBUG :- Location is Melbourne (MEL): 
+2023-09-16 13:21:31,960 - DEBUG :- Curr Win
+2023-09-16 13:21:31,993 - DEBUG :- <selenium.webdriver.remote.webelement.WebElement (session="49675a01c9fb96c7dc7c76cef8a8ddaa", element="EF95A5954FAEC22C689919BB491C1D48_element_47")>
+2023-09-16 13:22:00,403 - DEBUG :- Curr Win
+2023-09-16 13:22:05,817 - DEBUG :- <selenium.webdriver.remote.webelement.WebElement (session="20b330088081e72fd2e11cd62516a6a0", element="059C84D4118A9EC1C1117E50955D411A_element_55")>
+2023-09-16 13:23:27,124 - DEBUG :- Curr Win
+2023-09-16 13:23:29,863 - DEBUG :- <selenium.webdriver.remote.webelement.WebElement (session="ef90236fa28309e37570c361b44f36f7", element="2C9A72EA8F75FBE488A914E4FCF0D1CF_element_83")>
+2023-09-16 13:24:00,670 - DEBUG :- Curr Win
+2023-09-16 13:24:02,430 - DEBUG :- <selenium.webdriver.remote.webelement.WebElement (session="de81e2a1ab740c1f45bfc77919f58086", element="7D94F7F66F7A89046553AB1F60CB5D3F_element_74")>
+2023-09-16 13:27:39,182 - DEBUG :- Curr Win
+2023-09-16 13:27:48,809 - DEBUG :- <selenium.webdriver.remote.webelement.WebElement (session="c030a9d236da79124e0f8854f0ef4c4a", element="4AD83B93A37B380A2631C477B36F6C95_element_82")>
+2023-09-16 13:29:02,349 - DEBUG :- Curr Win
+2023-09-16 13:29:03,090 - DEBUG :- <selenium.webdriver.remote.webelement.WebElement (session="19778bbf03e505ca97b7a6e836441bff", element="FB3B934917B16CAF575829FA4C416D08_element_64")>
+2023-09-16 13:29:29,945 - DEBUG :- Curr Win
+2023-09-16 13:29:30,665 - DEBUG :- <selenium.webdriver.remote.webelement.WebElement (session="e042f43586f4d7444fad4d167d765ab4", element="94409544F791838743C7D9F600286CA0_element_33")>
+2023-09-16 13:30:45,838 - DEBUG :- Curr Win
+2023-09-16 13:30:47,568 - DEBUG :- <selenium.webdriver.remote.webelement.WebElement (session="3f9103d41b24a2b6bfc889020ebd3f96", element="5EBCAC00CAAE17228EB60346FFD520FE_element_83")>
+2023-09-16 13:31:19,143 - DEBUG :- Curr Win
+2023-09-16 13:31:23,564 - DEBUG :- <selenium.webdriver.remote.webelement.WebElement (session="e64feb399a8d749e45679a2b91bc6b21", element="72812373D7817E76A3CBF22BC6A55AC0_element_59")>
+2023-09-16 13:32:58,150 - DEBUG :- Curr Win
+2023-09-16 13:33:00,950 - DEBUG :- <selenium.webdriver.remote.webelement.WebElement (session="73f53faf8e8e00cf850240bd1c138acb", element="15316F4A93CAABE5AD9837FA0FD7A657_element_68")>
+2023-09-16 13:33:39,862 - DEBUG :- Curr Win
+2023-09-16 13:33:39,896 - DEBUG :- <selenium.webdriver.remote.webelement.WebElement (session="71f81ac3dc43d4a841f225ecc0506057", element="DBB8A590AC39FFB82F866837925F8970_element_73")>
+2023-09-16 13:33:52,903 - DEBUG :- result text is New Delhi (DEL)
+Indira Gandhi International
+India: 
+2023-09-16 13:33:52,903 - DEBUG :- Location is Melbourne: 
+2023-09-16 13:36:42,945 - DEBUG :- Selected flights with 2 stops
+2023-09-16 13:36:47,016 - DEBUG :- Number of stops 389: 
+2023-09-18 19:09:05,974 - DEBUG :- Curr Win
+2023-09-18 19:09:06,009 - DEBUG :- <selenium.webdriver.remote.webelement.WebElement (session="3e807539c2cd0d33ddd3b6e164561664", element="30C8D4490530B5B5FCADD2C27796D304_element_74")>
+2023-09-18 19:09:24,003 - DEBUG :- Curr Win
+2023-09-18 19:09:26,864 - DEBUG :- <selenium.webdriver.remote.webelement.WebElement (session="3d00b5a116d777d3fb43c6b603a598e9", element="7A9C35C906646851609B42594EEB0CF1_element_77")>
+2023-09-18 19:12:00,725 - DEBUG :- Curr Win
+2023-09-18 19:12:00,744 - DEBUG :- <selenium.webdriver.remote.webelement.WebElement (session="ab132bce38c4b6f4cf9f944677844755", element="E8F20651D8C10D6C2F2AE490D75AA924_element_71")>
+2023-09-18 19:12:09,770 - DEBUG :- result text is New Delhi (DEL)
+Indira Gandhi International
+India: 
+2023-09-18 19:12:09,771 - DEBUG :- Location is JFK: 
+2023-09-18 19:12:09,811 - DEBUG :- result text is Mumbai (BOM)
+Chhatrapati Shivaji International
+India: 
+2023-09-18 19:12:09,812 - DEBUG :- Location is JFK: 
+2023-09-18 19:12:09,858 - DEBUG :- result text is Bangalore (BLR)
+Kempegowda International
+India: 
+2023-09-18 19:12:09,858 - DEBUG :- Location is JFK: 
+2023-09-18 19:12:09,909 - DEBUG :- result text is Chennai (MAA)
+Chennai International
+India: 
+2023-09-18 19:12:09,909 - DEBUG :- Location is JFK: 
+2023-09-18 19:12:09,963 - DEBUG :- result text is Hyderabad (HYD)
+Shamshabad Rajiv Gandhi
+India: 
+2023-09-18 19:12:09,963 - DEBUG :- Location is JFK: 
+2023-09-18 19:13:03,555 - DEBUG :- Curr Win
+2023-09-18 19:13:03,583 - DEBUG :- <selenium.webdriver.remote.webelement.WebElement (session="77eee7d3356bacf4b8cd67125ac3cef1", element="E1BFD0BCDE763D1B4F16746CCFD1D806_element_84")>
+2023-09-18 19:13:19,350 - DEBUG :- result text is New Delhi (DEL)
+Indira Gandhi International
+India: 
+2023-09-18 19:13:19,351 - DEBUG :- Location is Melbourne: 
+2023-09-18 19:13:19,394 - DEBUG :- result text is Melbourne (MLB)
+Melbourne Regional
+United States: 
+2023-09-18 19:13:19,395 - DEBUG :- Location is Melbourne: 
+2023-09-18 19:25:03,258 - DEBUG :- Curr Win
+2023-09-18 19:25:03,289 - DEBUG :- <selenium.webdriver.remote.webelement.WebElement (session="8319a902076ab3890b11a9b07c24b5a0", element="1FFFEA8515043446967252D36A7DED6D_element_59")>
+2023-09-18 19:25:12,360 - DEBUG :- result text is New Delhi (DEL)
+Indira Gandhi International
+India: 
+2023-09-18 19:25:12,361 - DEBUG :- Location is John F Kennedy: 
+2023-09-18 19:26:12,474 - DEBUG :- Curr Win
+2023-09-18 19:26:12,507 - DEBUG :- <selenium.webdriver.remote.webelement.WebElement (session="e8c32ee47466079f4d72673169d9b5fe", element="FD0253B073DDE64B97C0CEA1A079795A_element_60")>
+2023-09-18 19:26:21,700 - DEBUG :- result text is Melbourne (MEL)
+Tullamarine
+Australia: 
+2023-09-18 19:26:21,700 - DEBUG :- Location is Melbourne: 
+2023-09-19 09:31:09,256 - DEBUG :- <selenium.webdriver.remote.webelement.WebElement (session="1641da82172670e8fb812a5850227885", element="26D3F2189A2B1185EC2EB199BC276DEE_element_55")>
+2023-09-19 09:33:52,185 - DEBUG :- <selenium.webdriver.remote.webelement.WebElement (session="5baab11e0b315fde07828d80862bcb06", element="228F147C4D26F900B737A94FC25278AE_element_55")>
+2023-09-19 09:44:12,678 - DEBUG :- <selenium.webdriver.remote.webelement.WebElement (session="1cc718e71b8bf982b9fd1d741220e624", element="A553FB83C1C4C3E1207F6A9EB492D9BF_element_76")>
+2023-09-19 09:45:51,966 - DEBUG :- <selenium.webdriver.remote.webelement.WebElement (session="850d65be22883480038a8fd6585e1b45", element="C9A2BC86BE7800722170286F574A9862_element_56")>
+2023-09-19 09:57:59,093 - DEBUG :- <selenium.webdriver.remote.webelement.WebElement (session="e5a838cb1aa0f650eadbf70052fa5fda", element="4DC4D0825AC9FFDD71BF1CA88518CC8A_element_76")>
+2023-09-19 09:59:50,281 - DEBUG :- <selenium.webdriver.remote.webelement.WebElement (session="0b53e11b846ae0054d0360aa7f59f05b", element="A2147F955A834A5865801605668D5BCA_element_53")>
+2023-09-19 10:01:57,743 - DEBUG :- <selenium.webdriver.remote.webelement.WebElement (session="ebc544ba99c8c7571010118b29ef6c02", element="44622B417DAADC07D39AA5E5AB8205F7_element_38")>
+2023-09-19 10:03:40,091 - DEBUG :- <selenium.webdriver.remote.webelement.WebElement (session="8acc24c6027a3ae2f20d78d519e0807a", element="36D6478C7AF2F1D6547698472D7BCDDA_element_81")>
+2023-09-19 10:04:52,039 - DEBUG :- <selenium.webdriver.remote.webelement.WebElement (session="fbd5174f906cf958ecc197555f65778c", element="A45D1773A664A3E5B01C39DE028C7344_element_77")>
+2023-09-19 10:06:56,711 - DEBUG :- <selenium.webdriver.remote.webelement.WebElement (session="d2df13822c15c07fffd04183200793ee", element="FEE358958D1FD79F15EEB3DE34804E5B_element_39")>
+2023-09-19 10:13:11,984 - DEBUG :- <selenium.webdriver.remote.webelement.WebElement (session="4db69d1cd04af3fcad15ff304959bdcd", element="CD226A7A9A08266B60AC227CBA36828B_element_83")>
+2023-09-19 10:14:03,570 - DEBUG :- <selenium.webdriver.remote.webelement.WebElement (session="bb23082877e76a1ff91cb6f99ad389a8", element="D092E4B7E732F33487CA120EBE39A4C8_element_77")>
+2023-09-19 10:53:29,885 - DEBUG :- <selenium.webdriver.remote.webelement.WebElement (session="a34757eab08fc92055c3f024c5d2ee42", element="68BF4139C1BD85F8C8308AD950FA74CE_element_78")>
+2023-09-19 10:55:10,365 - DEBUG :- <selenium.webdriver.remote.webelement.WebElement (session="6fc1555491f6bc0c8ba5a12b8bb83517", element="35D32B2E2489D572B5FFFD062858C76A_element_75")>
+2023-09-19 10:59:41,446 - DEBUG :- <selenium.webdriver.remote.webelement.WebElement (session="6af3028bc6f85e9ed431b024c9ad029a", element="053EE106C95AD3CD48FF266D3F88EA0C_element_75")>
+2023-09-19 11:00:45,675 - DEBUG :- Selected hotels with 3 + ratings
+2023-09-19 11:02:59,616 - DEBUG :- <selenium.webdriver.remote.webelement.WebElement (session="3ba5f15335e056f2c9b03df4a374c5d9", element="F9E9D7C4011A73DB754655D9838B6405_element_79")>
+2023-09-19 11:04:02,795 - DEBUG :- Selected hotels with 3 + ratings
+2023-09-19 11:08:40,128 - DEBUG :- <selenium.webdriver.remote.webelement.WebElement (session="e84924a61a12f71c32dcd758d69f242d", element="5357EAEC1EFF2345038ADEB99C4C02A3_element_68")>
+2023-09-19 11:09:29,142 - DEBUG :- <selenium.webdriver.remote.webelement.WebElement (session="a4c6f9c19bdba606d2b8f04da5b77716", element="24D98DE1A4F45B3D67CC73E2421E4A0A_element_47")>
+2023-09-19 11:11:14,855 - DEBUG :- <selenium.webdriver.remote.webelement.WebElement (session="2f5dda2ccd403c31397a0c4997fb66ce", element="2CB7DB86E4FF54E96A84C281277A555C_element_79")>
+2023-09-19 11:13:03,740 - DEBUG :- <selenium.webdriver.remote.webelement.WebElement (session="ec75f6bf124c94f9abe3f12c1df92a51", element="773818EBBFFC9B478D769FE842481915_element_77")>
+2023-09-19 11:14:27,454 - DEBUG :- <selenium.webdriver.remote.webelement.WebElement (session="ef252f9b6f8abc891893a8787ba66584", element="4319236F92B24E8CCD53E52D52B11870_element_56")>
+2023-09-19 11:14:54,036 - DEBUG :- Selected hotels with 3 + ratings
+2023-09-19 11:14:58,081 - DEBUG :- Number of hotels 60: 
+2023-09-19 11:19:31,954 - DEBUG :- <selenium.webdriver.remote.webelement.WebElement (session="ce5b5970768ab78e37d9c576303fee56", element="F1A355FE26F2C7BDD0B7E155C2476523_element_52")>
+2023-09-19 11:20:28,964 - DEBUG :- <selenium.webdriver.remote.webelement.WebElement (session="644600b9968960ad67ce92ec014c2cb6", element="65C7011F569A766EBB18B860467A023C_element_73")>
+2023-09-19 11:21:22,299 - DEBUG :- <selenium.webdriver.remote.webelement.WebElement (session="96ae1164b3f70df715c30e9434ea123b", element="E534416AC34E95A307F14D18A8E48E65_element_52")>
+2023-09-19 11:24:06,080 - DEBUG :- <selenium.webdriver.remote.webelement.WebElement (session="41cb016676ce92c052bd832fa32f130b", element="54F84705139F47DF6D69C250AB01AB54_element_90")>
+2023-09-20 09:01:23,067 - DEBUG :- Selected hotels with 3 + ratings
+2023-09-20 09:01:27,111 - DEBUG :- Number of hotels 60: 
+2023-09-20 09:11:26,314 - DEBUG :- Selected hotels with 3 + ratings
+2023-09-20 09:11:30,356 - DEBUG :- Number of hotels 60: 
+2023-09-20 09:13:28,331 - DEBUG :- Selected hotels with 3 + ratings
+2023-09-20 09:13:32,382 - DEBUG :- Number of hotels 120: 
+2023-09-20 09:17:10,763 - DEBUG :- Selected hotels with 3 + ratings
+2023-09-20 09:17:14,822 - DEBUG :- Number of hotels 120: 
+2023-09-20 09:38:25,941 - DEBUG :- Selected hotels with 3 + ratings
+2023-09-20 09:38:30,058 - DEBUG :- Number of hotels 120: 
+2023-09-20 09:41:23,893 - DEBUG :- Selected hotels with 3 + ratings
+2023-09-20 09:41:28,075 - DEBUG :- Number of hotels 346: 
+2023-09-20 09:44:34,135 - DEBUG :- Selected hotels with 3 + ratings
+2023-09-20 09:44:38,195 - DEBUG :- Number of hotels 120: 
+2023-09-20 09:49:33,218 - DEBUG :- Selected hotels with 3 + ratings
+2023-09-20 09:49:37,277 - DEBUG :- Number of hotels 120: 
+2023-09-20 09:55:48,805 - DEBUG :- Selected hotels with 3 + ratings
+2023-09-20 09:55:52,859 - DEBUG :- Number of hotels 120: 
+2023-09-20 10:00:17,610 - DEBUG :- Selected hotels with 3 + ratings
+2023-09-20 10:00:21,660 - DEBUG :- Number of hotels 120: 
+2023-09-20 10:06:41,641 - DEBUG :- Selected hotels with 3 + ratings
+2023-09-20 10:06:45,698 - DEBUG :- Number of hotels 120: 
+2023-09-20 10:09:27,668 - DEBUG :- Selected hotels with 3 + ratings
+2023-09-20 10:09:31,720 - DEBUG :- Number of hotels 120: 
+2023-09-20 10:13:40,678 - DEBUG :- Selected hotels with 3 + ratings
+2023-09-20 10:13:44,716 - DEBUG :- Number of hotels 60: 
+2023-09-21 19:56:54,634 - DEBUG :- Selected hotels with 2 + ratings
+2023-09-21 19:56:58,729 - DEBUG :- Number of hotels 160: 
+2023-09-21 20:04:51,202 - DEBUG :- Selected hotels with 2 + ratings
+2023-09-21 20:04:55,300 - DEBUG :- Number of hotels 180: 
+2023-11-19 09:10:23,364 - DEBUG :- result text is New Delhi (DEL)
+Indira Gandhi International
+India: 
+2023-11-19 09:10:23,367 - DEBUG :- Location is JFK: 
+2023-11-19 09:10:23,407 - DEBUG :- result text is Mumbai (BOM)
+Chhatrapati Shivaji International
+India: 
+2023-11-19 09:10:23,408 - DEBUG :- Location is JFK: 
+2023-11-19 09:10:23,443 - DEBUG :- result text is Bangalore (BLR)
+Kempegowda International
+India: 
+2023-11-19 09:10:23,443 - DEBUG :- Location is JFK: 
+2023-11-19 09:10:40,375 - DEBUG :- result text is Mumbai (BOM)
+Chhatrapati Shivaji International
+India: 
+2023-11-19 09:10:40,375 - DEBUG :- Location is Melbourne: 
+2023-11-19 09:10:56,567 - DEBUG :- Selected flights with 2 stops
+2023-11-19 09:11:00,603 - DEBUG :- Number of stops 46: 
+2023-11-19 09:12:37,311 - DEBUG :- result text is New Delhi (DEL)
+Indira Gandhi International
+India: 
+2023-11-19 09:12:37,311 - DEBUG :- Location is JFK: 
+2023-11-19 09:13:11,909 - DEBUG :- result text is New Delhi (DEL)
+Indira Gandhi International
+India: 
+2023-11-19 09:13:11,909 - DEBUG :- Location is Melbourne: 
+2023-11-19 09:14:20,618 - DEBUG :- Selected flights with 2 stops
+2023-11-19 09:14:24,647 - DEBUG :- Number of stops 152: 
+2023-11-19 09:15:10,907 - DEBUG :- result text is New Delhi (DEL)
+Indira Gandhi International
+India: 
+2023-11-19 09:15:10,909 - DEBUG :- Location is JFK: 
+2023-11-19 09:16:15,851 - DEBUG :- Selected flights with 1 stop
+2023-11-19 09:16:19,911 - DEBUG :- Number of stops 153: 
+2023-11-19 09:16:44,699 - DEBUG :- result text is New Delhi (DEL)
+Indira Gandhi International
+India: 
+2023-11-19 09:16:44,699 - DEBUG :- Location is Melbourne: 
+2023-11-19 09:17:49,010 - DEBUG :- Selected flights with 2 stops
+2023-11-19 09:17:53,056 - DEBUG :- Number of stops 152: 
+2023-11-19 09:24:17,865 - DEBUG :- Selected hotels with 3 + ratings
+2023-11-19 09:24:21,943 - DEBUG :- Number of hotels 60: 
+2023-11-22 16:36:17,686 - DEBUG :- result text is New Delhi (DEL)
+Indira Gandhi International
+India: 
+2023-11-22 16:36:17,686 - DEBUG :- Location is JFK: 
+2023-11-22 16:36:17,708 - DEBUG :- result text is Mumbai (BOM)
+Chhatrapati Shivaji International
+India: 
+2023-11-22 16:36:17,708 - DEBUG :- Location is JFK: 
+2023-11-22 16:36:17,730 - DEBUG :- result text is Bangalore (BLR)
+Kempegowda International
+India: 
+2023-11-22 16:36:17,730 - DEBUG :- Location is JFK: 
+2023-11-22 16:36:32,581 - DEBUG :- result text is New Delhi (DEL)
+Indira Gandhi International
+India: 
+2023-11-22 16:36:32,581 - DEBUG :- Location is Melbourne: 
+2023-11-22 16:36:32,609 - DEBUG :- result text is Mumbai (BOM)
+Chhatrapati Shivaji International
+India: 
+2023-11-22 16:36:32,609 - DEBUG :- Location is Melbourne: 
+2023-11-22 16:36:32,629 - DEBUG :- result text is Bangalore (BLR)
+Kempegowda International
+India: 
+2023-11-22 16:36:32,629 - DEBUG :- Location is Melbourne: 
+2023-11-22 16:36:32,651 - DEBUG :- result text is Chennai (MAA)
+Chennai International
+India: 
+2023-11-22 16:36:32,651 - DEBUG :- Location is Melbourne: 
+2023-11-22 16:36:32,679 - DEBUG :- result text is Hyderabad (HYD)
+Shamshabad Rajiv Gandhi
+India: 
+2023-11-22 16:36:32,679 - DEBUG :- Location is Melbourne: 
+2023-11-22 16:36:32,706 - DEBUG :- result text is Goa (GOI)
+Dabolim
+India: 
+2023-11-22 16:36:32,706 - DEBUG :- Location is Melbourne: 
+2023-11-22 16:36:32,733 - DEBUG :- result text is Kolkata (CCU)
+Netaji Subhas Chandra Bose
+India: 
+2023-11-22 16:36:32,734 - DEBUG :- Location is Melbourne: 
+2023-11-22 16:36:32,762 - DEBUG :- result text is Pune (PNQ)
+Lohegaon
+India: 
+2023-11-22 16:36:32,762 - DEBUG :- Location is Melbourne: 
+2023-11-22 16:36:32,775 - DEBUG :- result text is Jaipur (JAI)
+Sanganeer
+India: 
+2023-11-22 16:36:32,775 - DEBUG :- Location is Melbourne: 
+2023-11-22 16:36:32,807 - DEBUG :- result text is Lucknow (LKO)
+Amausi
+India: 
+2023-11-22 16:36:32,807 - DEBUG :- Location is Melbourne: 
+2023-11-22 16:36:32,822 - DEBUG :- result text is Melbourne (MEL)
+Tullamarine
+Australia: 
+2023-11-22 16:36:32,822 - DEBUG :- Location is Melbourne: 
+2023-11-22 16:37:29,040 - DEBUG :- result text is New Delhi (DEL)
+Indira Gandhi International
+India: 
+2023-11-22 16:37:29,040 - DEBUG :- Location is JFK: 
+2023-11-22 16:37:43,666 - DEBUG :- result text is New Delhi (DEL)
+Indira Gandhi International
+India: 
+2023-11-22 16:37:43,666 - DEBUG :- Location is Melbourne: 
+2023-11-22 16:37:43,687 - DEBUG :- result text is Mumbai (BOM)
+Chhatrapati Shivaji International
+India: 
+2023-11-22 16:37:43,687 - DEBUG :- Location is Melbourne: 
+2023-11-22 16:37:43,707 - DEBUG :- result text is Bangalore (BLR)
+Kempegowda International
+India: 
+2023-11-22 16:37:43,707 - DEBUG :- Location is Melbourne: 
+2023-11-22 16:37:43,727 - DEBUG :- result text is Chennai (MAA)
+Chennai International
+India: 
+2023-11-22 16:37:43,727 - DEBUG :- Location is Melbourne: 
+2023-11-22 16:37:43,755 - DEBUG :- result text is Hyderabad (HYD)
+Shamshabad Rajiv Gandhi
+India: 
+2023-11-22 16:37:43,755 - DEBUG :- Location is Melbourne: 
+2023-11-22 16:41:46,026 - DEBUG :- result text is New Delhi (DEL)
+Indira Gandhi International
+India: 
+2023-11-22 16:41:46,026 - DEBUG :- Location is JFK: 
+2023-11-22 16:42:17,553 - DEBUG :- result text is New Delhi (DEL)
+Indira Gandhi International
+India: 
+2023-11-22 16:42:17,553 - DEBUG :- Location is Melbourne: 
+2023-11-22 16:42:17,574 - DEBUG :- result text is Mumbai (BOM)
+Chhatrapati Shivaji International
+India: 
+2023-11-22 16:42:17,574 - DEBUG :- Location is Melbourne: 
+2023-11-22 16:42:17,596 - DEBUG :- result text is Bangalore (BLR)
+Kempegowda International
+India: 
+2023-11-22 16:42:17,596 - DEBUG :- Location is Melbourne: 
+2023-11-22 16:42:17,623 - DEBUG :- result text is Chennai (MAA)
+Chennai International
+India: 
+2023-11-22 16:42:17,623 - DEBUG :- Location is Melbourne: 
+2023-11-22 16:42:17,657 - DEBUG :- result text is Hyderabad (HYD)
+Shamshabad Rajiv Gandhi
+India: 
+2023-11-22 16:42:17,657 - DEBUG :- Location is Melbourne: 
+2023-11-22 16:42:17,685 - DEBUG :- result text is Goa (GOI)
+Dabolim
+India: 
+2023-11-22 16:42:17,685 - DEBUG :- Location is Melbourne: 
+2023-11-22 16:42:17,713 - DEBUG :- result text is Kolkata (CCU)
+Netaji Subhas Chandra Bose
+India: 
+2023-11-22 16:42:17,713 - DEBUG :- Location is Melbourne: 
+2023-11-22 16:42:17,741 - DEBUG :- result text is Pune (PNQ)
+Lohegaon
+India: 
+2023-11-22 16:42:17,741 - DEBUG :- Location is Melbourne: 
+2023-11-22 16:42:17,757 - DEBUG :- result text is Jaipur (JAI)
+Sanganeer
+India: 
+2023-11-22 16:42:17,757 - DEBUG :- Location is Melbourne: 
+2023-11-22 16:42:17,788 - DEBUG :- result text is Lucknow (LKO)
+Amausi
+India: 
+2023-11-22 16:42:17,788 - DEBUG :- Location is Melbourne: 
+2023-11-22 16:42:17,804 - DEBUG :- result text is Melbourne (MEL)
+Tullamarine
+Australia: 
+2023-11-22 16:42:17,804 - DEBUG :- Location is Melbourne: 
+2023-11-22 16:43:13,389 - DEBUG :- Selected hotels with 3 + ratings
+2023-11-22 16:43:17,415 - DEBUG :- Number of hotels 60: 
